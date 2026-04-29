@@ -4,7 +4,7 @@ https://www.loom.com/share/00799edcb5e44fafafc45b0336ea98c1
 # Mama AI: Hybrid Parenting Assistant 🎠
 
  
-Mama AI is a high-performance, local-first parenting recommendation engine. It bridges the gap between developmental science and product search, using a **Triple-Tier AI Architecture** to provide empathetic, context-aware advice.
+Mama AI is a  parenting recommendation engine. It bridges the gap between ambiguity and product search, using a **Triple-Tier AI Architecture** to suggest, context-aware products from the database.
 
 ---
 
@@ -36,9 +36,11 @@ npm run dev
 ### 3. Environment
 Rename `.env.example` (or create `.env`) in the root:
 ```env
-OPENROUTER_API_KEY=your_key
-GEMINI_API_KEY=your_key
-OLLAMA_MODEL=llama3.1:8b
+{ANY 1 of three is required}
+
+OPENROUTER_API_KEY=your_key { the project is evaluated on this} ** RECOMMENDED
+GEMINI_API_KEY=your_key 
+OLLAMA_MODEL=llama3.1:8b { local LLm but has to be pre-downloaded with a model llama3.1:8b}
 ```
 
 ---
@@ -72,7 +74,11 @@ OLLAMA_MODEL=llama3.1:8b
 ## 🏗️ Trade-offs & Architecture
 
 ### Why This Problem?
-I chose **Parenting Search** because traditional E-commerce (Amazon/Noon) is terrible at *context*. A parent doesn't search for "BPA-free Silicone"; they search for "my baby is crying and I don't know why." I rejected building a generic chatbot in favor of a **RAG-based Recommendation Engine** that ties AI reasoning to real, purchaseable products.
+I chose **Parenting Search** because I liked the problem statement of - ""Gift finder for moms. Natural-language input like “thoughtful gift for a friend with a 6-month-old, under 200 AED” ""...But I wanted to build more on this ...so this project does not only deals with gifts but matches any parenting concerns/ambiguity to an right product .. 
+
+ex-  a concerned parent seraches - "baby can't sleep a night" maps to white noise emulator or similar products for the baby ...
+
+
 
 ### The Triple-Tier Choice
  Rejected a "Cloud-Only" approach (too expensive/rate-limited) and a "Local-Only" approach (too slow for mobile).
@@ -82,7 +88,7 @@ I chose **Parenting Search** because traditional E-commerce (Amazon/Noon) is ter
 
 ### What We Cut
 - **User Authentication**: Cut to focus on the search experience.
-- **Real Payment Integration**: Simulated with "Explore Match" buttons to keep the focus on the AI.
+- **NO actual  pages for products**: Simulated with "Explore Match" buttons to keep the focus on the AI.
 
 ---
 
@@ -92,8 +98,8 @@ I chose **Parenting Search** because traditional E-commerce (Amazon/Noon) is ter
 This project was built using **Antigravity (Google DeepMind)** in a high-intensity agentic loop.
 
 - **Pair-Coding**: 80% of the architecture was developed through collaborative iteration. Antigravity (the agent) proposed refactors (e.g., migrating from `requests` to the `Ollama SDK`), and the user provided real-world edge cases.
-- **Agentic Loops**: I used autonomous loops for UI testing, environment debugging (fixing the PowerShell `&&` vs `;` syntax), and data indexing.
-- **Prompt Iteration**: We spent 3 cycles refining the "Reasoning Prompt" to stop hallucinations.
+- **Agentic Loops**:  used autonomous loops for UI testing, environment debugging (fixing the PowerShell `&&` vs `;` syntax), and data indexing.
+- **Prompt Iteration**:  spent 3 cycles refining the "Reasoning Prompt" to stop hallucinations.
 
 ### Model Stack
 - **Reasoning**: `google/gemini-2.0-flash-001` (via OpenRouter) for its 1M context and speed.

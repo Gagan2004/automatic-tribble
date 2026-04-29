@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #8b5cf6;
+  --primary-hover: #7c3aed;
+  --bg-main: #050505;
+  --bg-card: rgba(15, 15, 20, 0.7);
+  --bg-accent: rgba(255, 255, 255, 0.03);
+  --text-main: #ffffff;
+  --text-muted: #94a3b8;
+  --border: rgba(255, 255, 255, 0.08);
+  --glass: rgba(15, 15, 20, 0.6);
+}
+
+@layer base {
+  body {
+    @apply bg-[#050505] text-white font-['Inter',sans-serif] antialiased overflow-hidden;
+    background: 
+      radial-gradient(circle at 0% 0%, rgba(139, 92, 246, 0.15) 0%, transparent 40%),
+      radial-gradient(circle at 100% 0%, rgba(236, 72, 153, 0.1) 0%, transparent 40%),
+      radial-gradient(circle at 50% 100%, rgba(59, 130, 246, 0.05) 0%, transparent 50%);
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+
+  h1, h2, h3 {
+    @apply font-['Outfit',sans-serif] tracking-tight;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply backdrop-blur-2xl border rounded-[2rem] transition-all duration-500;
+    background: var(--bg-card);
+    border-color: var(--border);
+  }
+
+  .glass-card:hover {
+    @apply border-white/20 shadow-[0_30px_60px_-15px_rgba(0,0,0,0.5)];
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-violet-400 via-fuchsia-400 to-indigo-400 font-black;
+  }
+
+  .recommendation-card {
+    @apply glass-card overflow-hidden;
+  }
+
+  .btn-primary {
+    @apply bg-violet-600 hover:bg-violet-500 text-white font-black px-6 py-2 rounded-2xl transition-all active:scale-95 flex items-center gap-2 shadow-lg shadow-violet-600/20;
+  }
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  @apply bg-white/10 rounded-full hover:bg-white/20 transition-colors;
+}
+
+.font-arabic {
+  font-family: 'Noto Sans Arabic', sans-serif;
+  direction: rtl;
+}
+
+/* Progress bar animation */
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s infinite linear;
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.95); opacity: 0; }
+  50% { opacity: 0.5; }
+  100% { transform: scale(1.1); opacity: 0; }
+}
+
+.animate-pulse-ring {
+  animation: pulse-ring 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

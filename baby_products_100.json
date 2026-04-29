@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 1001,
+        "name": "Pro Outlet Covers",
+        "price_aed": 225.6,
+        "category": "Safety",
+        "age_min_months": 3,
+        "age_max_months": 15,
+        "rating": 3.7,
+        "review_count": 214,
+        "tags": [
+            "breathable",
+            "BPA-free",
+            "soft-touch",
+            "eco-friendly"
+        ],
+        "description": "High-quality pro outlet covers designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1002,
+        "name": "Premium Anti-Colic Bottle",
+        "price_aed": 81.08,
+        "category": "Feeding",
+        "age_min_months": 18,
+        "age_max_months": 24,
+        "rating": 4.3,
+        "review_count": 1121,
+        "tags": [
+            "portable",
+            "durable",
+            "travel-friendly"
+        ],
+        "description": "High-quality premium anti-colic bottle designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1003,
+        "name": "Pro Photo Frame Set",
+        "price_aed": 230.5,
+        "category": "Nursery",
+        "age_min_months": 3,
+        "age_max_months": 27,
+        "rating": 4.0,
+        "review_count": 323,
+        "tags": [
+            "easy-clean",
+            "BPA-free"
+        ],
+        "description": "High-quality pro photo frame set designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1004,
+        "name": "Classic Electric Bottle Warmer",
+        "price_aed": 116.95,
+        "category": "Feeding",
+        "age_min_months": 6,
+        "age_max_months": 42,
+        "rating": 3.9,
+        "review_count": 93,
+        "tags": [
+            "durable",
+            "breathable",
+            "BPA-free",
+            "portable"
+        ],
+        "description": "High-quality classic electric bottle warmer designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1005,
+        "name": "Standard Soft Tip Spoons",
+        "price_aed": 250.55,
+        "category": "Feeding",
+        "age_min_months": 18,
+        "age_max_months": 36,
+        "rating": 4.4,
+        "review_count": 147,
+        "tags": [
+            "portable",
+            "travel-friendly"
+        ],
+        "description": "High-quality standard soft tip spoons designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1006,
+        "name": "Premium Portable Snack Cup",
+        "price_aed": 261.08,
+        "category": "Feeding",
+        "age_min_months": 12,
+        "age_max_months": 30,
+        "rating": 4.2,
+        "review_count": 752,
+        "tags": [
+            "easy-clean",
+            "organic"
+        ],
+        "description": "High-quality premium portable snack cup designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1007,
+        "name": "Standard Sensory Ball Set",
+        "price_aed": 214.32,
+        "category": "Toys",
+        "age_min_months": 24,
+        "age_max_months": 30,
+        "rating": 4.4,
+        "review_count": 355,
+        "tags": [
+            "portable",
+            "non-toxic",
+            "durable",
+            "organic"
+        ],
+        "description": "High-quality standard sensory ball set designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1008,
+        "name": "Premium Step Stool for Toddlers",
+        "price_aed": 209.43,
+        "category": "Hygiene",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "rating": 4.7,
+        "review_count": 651,
+        "tags": [
+            "travel-friendly",
+            "BPA-free",
+            "portable"
+        ],
+        "description": "High-quality premium step stool for toddlers designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1009,
+        "name": "Organic Knitted Booties",
+        "price_aed": 75.39,
+        "category": "Clothing",
+        "age_min_months": 12,
+        "age_max_months": 36,
+        "rating": 4.8,
+        "review_count": 944,
+        "tags": [
+            "travel-friendly",
+            "non-toxic"
+        ],
+        "description": "High-quality organic knitted booties designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1010,
+        "name": "Standard Push and Go Car",
+        "price_aed": 227.15,
+        "category": "Toys",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "rating": 4.1,
+        "review_count": 454,
+        "tags": [
+            "breathable",
+            "durable"
+        ],
+        "description": "High-quality standard push and go car designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1011,
+        "name": "Pro Insulated Bottle Bag",
+        "price_aed": 259.55,
+        "category": "Feeding",
+        "age_min_months": 3,
+        "age_max_months": 15,
+        "rating": 4.7,
+        "review_count": 869,
+        "tags": [
+            "BPA-free",
+            "soft-touch",
+            "breathable",
+            "travel-friendly"
+        ],
+        "description": "High-quality pro insulated bottle bag designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1012,
+        "name": "Standard Footmuff for Stroller",
+        "price_aed": 290.79,
+        "category": "Stroller",
+        "age_min_months": 0,
+        "age_max_months": 6,
+        "rating": 4.5,
+        "review_count": 1104,
+        "tags": [
+            "easy-clean",
+            "BPA-free",
+            "travel-friendly"
+        ],
+        "description": "High-quality standard footmuff for stroller designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1013,
+        "name": "Deluxe Clip-on Fan",
+        "price_aed": 15.92,
+        "category": "Stroller",
+        "age_min_months": 24,
+        "age_max_months": 42,
+        "rating": 5.0,
+        "review_count": 370,
+        "tags": [
+            "BPA-free",
+            "travel-friendly",
+            "portable",
+            "organic"
+        ],
+        "description": "High-quality deluxe clip-on fan designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1014,
+        "name": "Lite Potty Training Seat",
+        "price_aed": 168.18,
+        "category": "Hygiene",
+        "age_min_months": 18,
+        "age_max_months": 24,
+        "rating": 4.4,
+        "review_count": 1005,
+        "tags": [
+            "BPA-free",
+            "easy-clean"
+        ],
+        "description": "High-quality lite potty training seat designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1015,
+        "name": "Standard Milestone Blanket",
+        "price_aed": 83.0,
+        "category": "Nursery",
+        "age_min_months": 3,
+        "age_max_months": 39,
+        "rating": 4.9,
+        "review_count": 180,
+        "tags": [
+            "durable",
+            "BPA-free",
+            "non-toxic",
+            "breathable"
+        ],
+        "description": "High-quality standard milestone blanket designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1016,
+        "name": "Lite Window Locks",
+        "price_aed": 90.28,
+        "category": "Safety",
+        "age_min_months": 18,
+        "age_max_months": 42,
+        "rating": 4.9,
+        "review_count": 1109,
+        "tags": [
+            "portable",
+            "travel-friendly",
+            "soft-touch",
+            "easy-clean"
+        ],
+        "description": "High-quality lite window locks designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1017,
+        "name": "Deluxe Stove Knob Covers",
+        "price_aed": 270.49,
+        "category": "Safety",
+        "age_min_months": 12,
+        "age_max_months": 18,
+        "rating": 3.9,
+        "review_count": 136,
+        "tags": [
+            "eco-friendly",
+            "breathable",
+            "portable"
+        ],
+        "description": "High-quality deluxe stove knob covers designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1018,
+        "name": "Pro Anti-Slip Socks",
+        "price_aed": 35.16,
+        "category": "Clothing",
+        "age_min_months": 24,
+        "age_max_months": 30,
+        "rating": 3.8,
+        "review_count": 69,
+        "tags": [
+            "BPA-free",
+            "breathable",
+            "portable"
+        ],
+        "description": "High-quality pro anti-slip socks designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1019,
+        "name": "Deluxe Hypoallergenic Baby Lotion",
+        "price_aed": 75.84,
+        "category": "Hygiene",
+        "age_min_months": 3,
+        "age_max_months": 39,
+        "rating": 4.4,
+        "review_count": 502,
+        "tags": [
+            "soft-touch",
+            "portable",
+            "BPA-free"
+        ],
+        "description": "High-quality deluxe hypoallergenic baby lotion designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1020,
+        "name": "Essential Fruit Feeder Pacifier",
+        "price_aed": 115.62,
+        "category": "Feeding",
+        "age_min_months": 12,
+        "age_max_months": 36,
+        "rating": 4.8,
+        "review_count": 115,
+        "tags": [
+            "BPA-free",
+            "eco-friendly",
+            "soft-touch",
+            "easy-clean"
+        ],
+        "description": "High-quality essential fruit feeder pacifier designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1021,
+        "name": "Classic Potty Training Seat",
+        "price_aed": 85.62,
+        "category": "Hygiene",
+        "age_min_months": 3,
+        "age_max_months": 39,
+        "rating": 4.2,
+        "review_count": 869,
+        "tags": [
+            "travel-friendly",
+            "durable"
+        ],
+        "description": "High-quality classic potty training seat designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1022,
+        "name": "Classic Alphabet Play Gym",
+        "price_aed": 140.85,
+        "category": "Toys",
+        "age_min_months": 18,
+        "age_max_months": 24,
+        "rating": 3.6,
+        "review_count": 1112,
+        "tags": [
+            "BPA-free",
+            "portable"
+        ],
+        "description": "High-quality classic alphabet play gym designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1023,
+        "name": "Deluxe Teething Ring",
+        "price_aed": 151.71,
+        "category": "Toys",
+        "age_min_months": 12,
+        "age_max_months": 18,
+        "rating": 3.7,
+        "review_count": 9,
+        "tags": [
+            "travel-friendly",
+            "durable",
+            "organic"
+        ],
+        "description": "High-quality deluxe teething ring designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1024,
+        "name": "Deluxe Mosquito Net for Pram",
+        "price_aed": 58.96,
+        "category": "Stroller",
+        "age_min_months": 6,
+        "age_max_months": 18,
+        "rating": 5.0,
+        "review_count": 1191,
+        "tags": [
+            "breathable",
+            "eco-friendly",
+            "easy-clean",
+            "organic"
+        ],
+        "description": "High-quality deluxe mosquito net for pram designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1025,
+        "name": "Deluxe Formula Dispenser Container",
+        "price_aed": 157.81,
+        "category": "Feeding",
+        "age_min_months": 18,
+        "age_max_months": 30,
+        "rating": 3.6,
+        "review_count": 1045,
+        "tags": [
+            "non-toxic",
+            "BPA-free"
+        ],
+        "description": "High-quality deluxe formula dispenser container designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1026,
+        "name": "Premium Soft Knitted Cardigan",
+        "price_aed": 129.67,
+        "category": "Clothing",
+        "age_min_months": 18,
+        "age_max_months": 30,
+        "rating": 4.4,
+        "review_count": 86,
+        "tags": [
+            "BPA-free",
+            "soft-touch",
+            "easy-clean",
+            "non-toxic"
+        ],
+        "description": "High-quality premium soft knitted cardigan designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1027,
+        "name": "Organic Sensory Ball Set",
+        "price_aed": 82.79,
+        "category": "Toys",
+        "age_min_months": 12,
+        "age_max_months": 24,
+        "rating": 4.5,
+        "review_count": 619,
+        "tags": [
+            "easy-clean",
+            "BPA-free",
+            "eco-friendly"
+        ],
+        "description": "High-quality organic sensory ball set designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1028,
+        "name": "Classic Stroller Sun Shade",
+        "price_aed": 35.81,
+        "category": "Stroller",
+        "age_min_months": 3,
+        "age_max_months": 39,
+        "rating": 3.9,
+        "review_count": 719,
+        "tags": [
+            "portable",
+            "easy-clean"
+        ],
+        "description": "High-quality classic stroller sun shade designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1029,
+        "name": "Deluxe Nappy Rash Cream",
+        "price_aed": 251.78,
+        "category": "Hygiene",
+        "age_min_months": 24,
+        "age_max_months": 42,
+        "rating": 4.4,
+        "review_count": 1088,
+        "tags": [
+            "breathable",
+            "travel-friendly"
+        ],
+        "description": "High-quality deluxe nappy rash cream designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1030,
+        "name": "Lite Outlet Covers",
+        "price_aed": 90.11,
+        "category": "Safety",
+        "age_min_months": 0,
+        "age_max_months": 36,
+        "rating": 3.7,
+        "review_count": 582,
+        "tags": [
+            "portable",
+            "easy-clean",
+            "organic",
+            "breathable"
+        ],
+        "description": "High-quality lite outlet covers designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1031,
+        "name": "Standard Fireplace Bumper",
+        "price_aed": 158.54,
+        "category": "Safety",
+        "age_min_months": 6,
+        "age_max_months": 12,
+        "rating": 3.6,
+        "review_count": 872,
+        "tags": [
+            "eco-friendly",
+            "organic",
+            "easy-clean"
+        ],
+        "description": "High-quality standard fireplace bumper designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1032,
+        "name": "Standard Sound Machine",
+        "price_aed": 60.89,
+        "category": "Nursery",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "rating": 4.6,
+        "review_count": 1153,
+        "tags": [
+            "BPA-free",
+            "organic"
+        ],
+        "description": "High-quality standard sound machine designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1033,
+        "name": "Lite Pinch Guard",
+        "price_aed": 169.95,
+        "category": "Safety",
+        "age_min_months": 6,
+        "age_max_months": 42,
+        "rating": 4.3,
+        "review_count": 885,
+        "tags": [
+            "eco-friendly",
+            "travel-friendly"
+        ],
+        "description": "High-quality lite pinch guard designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1034,
+        "name": "Pro Step Stool for Toddlers",
+        "price_aed": 270.29,
+        "category": "Hygiene",
+        "age_min_months": 3,
+        "age_max_months": 15,
+        "rating": 4.5,
+        "review_count": 729,
+        "tags": [
+            "soft-touch",
+            "non-toxic",
+            "portable",
+            "organic"
+        ],
+        "description": "High-quality pro step stool for toddlers designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1035,
+        "name": "Lite Tummy Time Mirror",
+        "price_aed": 265.32,
+        "category": "Toys",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "rating": 4.6,
+        "review_count": 685,
+        "tags": [
+            "portable",
+            "travel-friendly",
+            "non-toxic"
+        ],
+        "description": "High-quality lite tummy time mirror designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1036,
+        "name": "Classic Rocking Chair Pillow",
+        "price_aed": 123.64,
+        "category": "Nursery",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "rating": 3.8,
+        "review_count": 947,
+        "tags": [
+            "travel-friendly",
+            "portable",
+            "breathable"
+        ],
+        "description": "High-quality classic rocking chair pillow designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1037,
+        "name": "Premium Fruit Feeder Pacifier",
+        "price_aed": 128.16,
+        "category": "Feeding",
+        "age_min_months": 6,
+        "age_max_months": 12,
+        "rating": 5.0,
+        "review_count": 576,
+        "tags": [
+            "breathable",
+            "soft-touch",
+            "easy-clean"
+        ],
+        "description": "High-quality premium fruit feeder pacifier designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1038,
+        "name": "Standard Anti-Colic Bottle",
+        "price_aed": 65.71,
+        "category": "Feeding",
+        "age_min_months": 6,
+        "age_max_months": 12,
+        "rating": 3.7,
+        "review_count": 894,
+        "tags": [
+            "easy-clean",
+            "soft-touch",
+            "BPA-free"
+        ],
+        "description": "High-quality standard anti-colic bottle designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1039,
+        "name": "Premium Wheel Cleaning Kit",
+        "price_aed": 87.34,
+        "category": "Stroller",
+        "age_min_months": 24,
+        "age_max_months": 48,
+        "rating": 3.5,
+        "review_count": 1107,
+        "tags": [
+            "portable",
+            "easy-clean",
+            "soft-touch",
+            "eco-friendly"
+        ],
+        "description": "High-quality premium wheel cleaning kit designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1040,
+        "name": "Organic Pinch Guard",
+        "price_aed": 191.98,
+        "category": "Safety",
+        "age_min_months": 24,
+        "age_max_months": 30,
+        "rating": 4.6,
+        "review_count": 620,
+        "tags": [
+            "travel-friendly",
+            "soft-touch",
+            "easy-clean",
+            "portable"
+        ],
+        "description": "High-quality organic pinch guard designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1041,
+        "name": "Lite Baby Monitor Mount",
+        "price_aed": 69.48,
+        "category": "Safety",
+        "age_min_months": 24,
+        "age_max_months": 48,
+        "rating": 4.5,
+        "review_count": 361,
+        "tags": [
+            "organic",
+            "travel-friendly",
+            "soft-touch",
+            "breathable"
+        ],
+        "description": "High-quality lite baby monitor mount designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1042,
+        "name": "Standard Breathable Crib Sheet",
+        "price_aed": 96.48,
+        "category": "Nursery",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "rating": 4.4,
+        "review_count": 664,
+        "tags": [
+            "durable",
+            "organic",
+            "portable"
+        ],
+        "description": "High-quality standard breathable crib sheet designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1043,
+        "name": "Lite Denim Overalls",
+        "price_aed": 202.11,
+        "category": "Clothing",
+        "age_min_months": 6,
+        "age_max_months": 42,
+        "rating": 4.5,
+        "review_count": 691,
+        "tags": [
+            "portable",
+            "travel-friendly"
+        ],
+        "description": "High-quality lite denim overalls designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1044,
+        "name": "Premium Tummy Time Mirror",
+        "price_aed": 56.85,
+        "category": "Toys",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "rating": 5.0,
+        "review_count": 154,
+        "tags": [
+            "soft-touch",
+            "portable",
+            "organic"
+        ],
+        "description": "High-quality premium tummy time mirror designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1045,
+        "name": "Premium Cup Holder Attachment",
+        "price_aed": 56.91,
+        "category": "Stroller",
+        "age_min_months": 24,
+        "age_max_months": 30,
+        "rating": 4.8,
+        "review_count": 223,
+        "tags": [
+            "portable",
+            "non-toxic",
+            "durable"
+        ],
+        "description": "High-quality premium cup holder attachment designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1046,
+        "name": "Premium Soft Tip Spoons",
+        "price_aed": 275.56,
+        "category": "Feeding",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "rating": 3.7,
+        "review_count": 956,
+        "tags": [
+            "breathable",
+            "organic",
+            "easy-clean",
+            "soft-touch"
+        ],
+        "description": "High-quality premium soft tip spoons designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1047,
+        "name": "Essential Stroller Sun Shade",
+        "price_aed": 250.88,
+        "category": "Stroller",
+        "age_min_months": 18,
+        "age_max_months": 42,
+        "rating": 4.8,
+        "review_count": 977,
+        "tags": [
+            "travel-friendly",
+            "portable",
+            "organic"
+        ],
+        "description": "High-quality essential stroller sun shade designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1048,
+        "name": "Deluxe Milestone Blanket",
+        "price_aed": 193.0,
+        "category": "Nursery",
+        "age_min_months": 6,
+        "age_max_months": 30,
+        "rating": 3.6,
+        "review_count": 590,
+        "tags": [
+            "travel-friendly",
+            "easy-clean"
+        ],
+        "description": "High-quality deluxe milestone blanket designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1049,
+        "name": "Classic Step Stool for Toddlers",
+        "price_aed": 54.3,
+        "category": "Hygiene",
+        "age_min_months": 3,
+        "age_max_months": 27,
+        "rating": 4.5,
+        "review_count": 443,
+        "tags": [
+            "soft-touch",
+            "organic"
+        ],
+        "description": "High-quality classic step stool for toddlers designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1050,
+        "name": "Deluxe Nasal Aspirator",
+        "price_aed": 133.08,
+        "category": "Hygiene",
+        "age_min_months": 3,
+        "age_max_months": 27,
+        "rating": 4.1,
+        "review_count": 45,
+        "tags": [
+            "soft-touch",
+            "durable",
+            "eco-friendly",
+            "non-toxic"
+        ],
+        "description": "High-quality deluxe nasal aspirator designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1051,
+        "name": "Essential Potty Training Seat",
+        "price_aed": 257.38,
+        "category": "Hygiene",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "rating": 4.6,
+        "review_count": 1123,
+        "tags": [
+            "portable",
+            "durable",
+            "organic",
+            "non-toxic"
+        ],
+        "description": "High-quality essential potty training seat designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1052,
+        "name": "Pro Travel Carry Bag",
+        "price_aed": 125.44,
+        "category": "Stroller",
+        "age_min_months": 24,
+        "age_max_months": 48,
+        "rating": 4.6,
+        "review_count": 962,
+        "tags": [
+            "organic",
+            "breathable"
+        ],
+        "description": "High-quality pro travel carry bag designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1053,
+        "name": "Essential Reusable Food Pouches",
+        "price_aed": 183.1,
+        "category": "Feeding",
+        "age_min_months": 24,
+        "age_max_months": 30,
+        "rating": 3.6,
+        "review_count": 882,
+        "tags": [
+            "durable",
+            "non-toxic"
+        ],
+        "description": "High-quality essential reusable food pouches designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1054,
+        "name": "Essential Sectioned Silicone Plate",
+        "price_aed": 107.97,
+        "category": "Feeding",
+        "age_min_months": 12,
+        "age_max_months": 30,
+        "rating": 4.0,
+        "review_count": 781,
+        "tags": [
+            "soft-touch",
+            "travel-friendly",
+            "BPA-free"
+        ],
+        "description": "High-quality essential sectioned silicone plate designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1055,
+        "name": "Pro Stroller Organizer Bag",
+        "price_aed": 298.97,
+        "category": "Stroller",
+        "age_min_months": 6,
+        "age_max_months": 18,
+        "rating": 4.5,
+        "review_count": 87,
+        "tags": [
+            "portable",
+            "organic"
+        ],
+        "description": "High-quality pro stroller organizer bag designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1056,
+        "name": "Lite Breathable Crib Sheet",
+        "price_aed": 82.75,
+        "category": "Nursery",
+        "age_min_months": 12,
+        "age_max_months": 18,
+        "rating": 4.3,
+        "review_count": 451,
+        "tags": [
+            "travel-friendly",
+            "easy-clean",
+            "non-toxic"
+        ],
+        "description": "High-quality lite breathable crib sheet designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1057,
+        "name": "Classic Striped Pajama Set",
+        "price_aed": 235.89,
+        "category": "Clothing",
+        "age_min_months": 3,
+        "age_max_months": 21,
+        "rating": 3.7,
+        "review_count": 57,
+        "tags": [
+            "organic",
+            "soft-touch",
+            "breathable"
+        ],
+        "description": "High-quality classic striped pajama set designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1058,
+        "name": "Classic Door Finger Guard",
+        "price_aed": 183.16,
+        "category": "Safety",
+        "age_min_months": 24,
+        "age_max_months": 36,
+        "rating": 3.7,
+        "review_count": 622,
+        "tags": [
+            "organic",
+            "BPA-free",
+            "eco-friendly",
+            "non-toxic"
+        ],
+        "description": "High-quality classic door finger guard designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1059,
+        "name": "Organic Sleep and Play Suit",
+        "price_aed": 34.58,
+        "category": "Clothing",
+        "age_min_months": 24,
+        "age_max_months": 42,
+        "rating": 3.5,
+        "review_count": 865,
+        "tags": [
+            "BPA-free",
+            "soft-touch",
+            "easy-clean"
+        ],
+        "description": "High-quality organic sleep and play suit designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1060,
+        "name": "Deluxe Pinch Guard",
+        "price_aed": 215.88,
+        "category": "Safety",
+        "age_min_months": 12,
+        "age_max_months": 24,
+        "rating": 4.6,
+        "review_count": 558,
+        "tags": [
+            "breathable",
+            "durable",
+            "organic",
+            "portable"
+        ],
+        "description": "High-quality deluxe pinch guard designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1061,
+        "name": "Standard Rocking Chair Pillow",
+        "price_aed": 106.53,
+        "category": "Nursery",
+        "age_min_months": 3,
+        "age_max_months": 9,
+        "rating": 3.9,
+        "review_count": 928,
+        "tags": [
+            "durable",
+            "soft-touch"
+        ],
+        "description": "High-quality standard rocking chair pillow designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1062,
+        "name": "Deluxe Baby Shampoo 200ml",
+        "price_aed": 256.67,
+        "category": "Hygiene",
+        "age_min_months": 3,
+        "age_max_months": 27,
+        "rating": 3.8,
+        "review_count": 534,
+        "tags": [
+            "travel-friendly",
+            "organic",
+            "eco-friendly"
+        ],
+        "description": "High-quality deluxe baby shampoo 200ml designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1063,
+        "name": "Classic Anti-Slip Socks",
+        "price_aed": 83.55,
+        "category": "Clothing",
+        "age_min_months": 12,
+        "age_max_months": 36,
+        "rating": 4.3,
+        "review_count": 497,
+        "tags": [
+            "durable",
+            "organic",
+            "breathable",
+            "soft-touch"
+        ],
+        "description": "High-quality classic anti-slip socks designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1064,
+        "name": "Standard Anti-Colic Bottle",
+        "price_aed": 77.93,
+        "category": "Feeding",
+        "age_min_months": 24,
+        "age_max_months": 36,
+        "rating": 4.0,
+        "review_count": 1196,
+        "tags": [
+            "durable",
+            "breathable",
+            "easy-clean"
+        ],
+        "description": "High-quality standard anti-colic bottle designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1065,
+        "name": "Organic Mosquito Net for Pram",
+        "price_aed": 114.91,
+        "category": "Stroller",
+        "age_min_months": 12,
+        "age_max_months": 30,
+        "rating": 4.0,
+        "review_count": 477,
+        "tags": [
+            "portable",
+            "easy-clean"
+        ],
+        "description": "High-quality organic mosquito net for pram designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1066,
+        "name": "Lite Breast Milk Storage Bags",
+        "price_aed": 69.4,
+        "category": "Feeding",
+        "age_min_months": 24,
+        "age_max_months": 48,
+        "rating": 3.9,
+        "review_count": 1079,
+        "tags": [
+            "travel-friendly",
+            "BPA-free",
+            "portable",
+            "non-toxic"
+        ],
+        "description": "High-quality lite breast milk storage bags designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1067,
+        "name": "Lite Bath Squirter Toys",
+        "price_aed": 100.84,
+        "category": "Toys",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "rating": 3.7,
+        "review_count": 98,
+        "tags": [
+            "breathable",
+            "travel-friendly"
+        ],
+        "description": "High-quality lite bath squirter toys designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1068,
+        "name": "Deluxe Cabinet Locks",
+        "price_aed": 44.13,
+        "category": "Safety",
+        "age_min_months": 0,
+        "age_max_months": 36,
+        "rating": 3.9,
+        "review_count": 985,
+        "tags": [
+            "easy-clean",
+            "non-toxic",
+            "eco-friendly"
+        ],
+        "description": "High-quality deluxe cabinet locks designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1069,
+        "name": "Deluxe Washable Nursing Pads",
+        "price_aed": 47.4,
+        "category": "Hygiene",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "rating": 4.2,
+        "review_count": 1186,
+        "tags": [
+            "eco-friendly",
+            "non-toxic",
+            "breathable",
+            "soft-touch"
+        ],
+        "description": "High-quality deluxe washable nursing pads designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1070,
+        "name": "Classic Swaddle Blanket",
+        "price_aed": 297.27,
+        "category": "Clothing",
+        "age_min_months": 0,
+        "age_max_months": 36,
+        "rating": 4.6,
+        "review_count": 467,
+        "tags": [
+            "soft-touch",
+            "durable",
+            "breathable",
+            "non-toxic"
+        ],
+        "description": "High-quality classic swaddle blanket designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1071,
+        "name": "Essential Floating Bookshelf",
+        "price_aed": 101.73,
+        "category": "Nursery",
+        "age_min_months": 18,
+        "age_max_months": 24,
+        "rating": 4.4,
+        "review_count": 208,
+        "tags": [
+            "portable",
+            "travel-friendly"
+        ],
+        "description": "High-quality essential floating bookshelf designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1072,
+        "name": "Lite Outlet Covers",
+        "price_aed": 83.12,
+        "category": "Safety",
+        "age_min_months": 18,
+        "age_max_months": 24,
+        "rating": 3.7,
+        "review_count": 841,
+        "tags": [
+            "organic",
+            "durable",
+            "travel-friendly"
+        ],
+        "description": "High-quality lite outlet covers designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1073,
+        "name": "Standard High Chair Insert",
+        "price_aed": 215.78,
+        "category": "Feeding",
+        "age_min_months": 24,
+        "age_max_months": 48,
+        "rating": 3.6,
+        "review_count": 483,
+        "tags": [
+            "organic",
+            "portable",
+            "soft-touch"
+        ],
+        "description": "High-quality standard high chair insert designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1074,
+        "name": "Premium Soft Tip Spoons",
+        "price_aed": 198.93,
+        "category": "Feeding",
+        "age_min_months": 6,
+        "age_max_months": 18,
+        "rating": 3.6,
+        "review_count": 344,
+        "tags": [
+            "organic",
+            "travel-friendly",
+            "durable"
+        ],
+        "description": "High-quality premium soft tip spoons designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1075,
+        "name": "Standard Sippy Cup",
+        "price_aed": 213.72,
+        "category": "Feeding",
+        "age_min_months": 6,
+        "age_max_months": 42,
+        "rating": 4.3,
+        "review_count": 901,
+        "tags": [
+            "organic",
+            "eco-friendly"
+        ],
+        "description": "High-quality standard sippy cup designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1076,
+        "name": "Organic Mosquito Net for Pram",
+        "price_aed": 186.45,
+        "category": "Stroller",
+        "age_min_months": 0,
+        "age_max_months": 6,
+        "rating": 3.8,
+        "review_count": 1183,
+        "tags": [
+            "eco-friendly",
+            "travel-friendly",
+            "organic",
+            "soft-touch"
+        ],
+        "description": "High-quality organic mosquito net for pram designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1077,
+        "name": "Deluxe Sound Machine",
+        "price_aed": 162.39,
+        "category": "Nursery",
+        "age_min_months": 12,
+        "age_max_months": 30,
+        "rating": 3.8,
+        "review_count": 897,
+        "tags": [
+            "durable",
+            "BPA-free",
+            "organic",
+            "non-toxic"
+        ],
+        "description": "High-quality deluxe sound machine designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1078,
+        "name": "Organic Padded Stroller Liner",
+        "price_aed": 205.32,
+        "category": "Stroller",
+        "age_min_months": 3,
+        "age_max_months": 21,
+        "rating": 4.1,
+        "review_count": 1019,
+        "tags": [
+            "soft-touch",
+            "breathable",
+            "eco-friendly"
+        ],
+        "description": "High-quality organic padded stroller liner designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1079,
+        "name": "Organic Universal Rain Cover",
+        "price_aed": 86.68,
+        "category": "Stroller",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "rating": 4.8,
+        "review_count": 7,
+        "tags": [
+            "breathable",
+            "durable",
+            "soft-touch",
+            "eco-friendly"
+        ],
+        "description": "High-quality organic universal rain cover designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1080,
+        "name": "Organic Baby Play Mat",
+        "price_aed": 191.83,
+        "category": "Toys",
+        "age_min_months": 12,
+        "age_max_months": 36,
+        "rating": 4.6,
+        "review_count": 421,
+        "tags": [
+            "breathable",
+            "non-toxic",
+            "travel-friendly"
+        ],
+        "description": "High-quality organic baby play mat designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1081,
+        "name": "Deluxe Wheel Cleaning Kit",
+        "price_aed": 49.49,
+        "category": "Stroller",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "rating": 4.7,
+        "review_count": 329,
+        "tags": [
+            "breathable",
+            "eco-friendly",
+            "soft-touch"
+        ],
+        "description": "High-quality deluxe wheel cleaning kit designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1082,
+        "name": "Classic High Chair Insert",
+        "price_aed": 146.05,
+        "category": "Feeding",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "rating": 4.2,
+        "review_count": 602,
+        "tags": [
+            "travel-friendly",
+            "soft-touch",
+            "durable",
+            "portable"
+        ],
+        "description": "High-quality classic high chair insert designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1083,
+        "name": "Lite Musical Mobile",
+        "price_aed": 123.94,
+        "category": "Toys",
+        "age_min_months": 18,
+        "age_max_months": 54,
+        "rating": 4.6,
+        "review_count": 284,
+        "tags": [
+            "travel-friendly",
+            "soft-touch"
+        ],
+        "description": "High-quality lite musical mobile designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1084,
+        "name": "Standard Step Stool for Toddlers",
+        "price_aed": 248.04,
+        "category": "Hygiene",
+        "age_min_months": 6,
+        "age_max_months": 24,
+        "rating": 4.8,
+        "review_count": 1192,
+        "tags": [
+            "durable",
+            "non-toxic",
+            "organic",
+            "travel-friendly"
+        ],
+        "description": "High-quality standard step stool for toddlers designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1085,
+        "name": "Organic Padded Stroller Liner",
+        "price_aed": 171.74,
+        "category": "Stroller",
+        "age_min_months": 18,
+        "age_max_months": 42,
+        "rating": 4.2,
+        "review_count": 664,
+        "tags": [
+            "portable",
+            "soft-touch"
+        ],
+        "description": "High-quality organic padded stroller liner designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1086,
+        "name": "Essential Alphabet Play Gym",
+        "price_aed": 27.4,
+        "category": "Toys",
+        "age_min_months": 24,
+        "age_max_months": 48,
+        "rating": 4.6,
+        "review_count": 785,
+        "tags": [
+            "non-toxic",
+            "durable",
+            "eco-friendly"
+        ],
+        "description": "High-quality essential alphabet play gym designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1087,
+        "name": "Organic Baby Play Mat",
+        "price_aed": 261.99,
+        "category": "Toys",
+        "age_min_months": 12,
+        "age_max_months": 18,
+        "rating": 4.3,
+        "review_count": 940,
+        "tags": [
+            "non-toxic",
+            "soft-touch"
+        ],
+        "description": "High-quality organic baby play mat designed for comfort and safety. Perfect for your baby's daily needs in the toys category."
+    },
+    {
+        "id": 1088,
+        "name": "Lite Humidifier",
+        "price_aed": 36.25,
+        "category": "Nursery",
+        "age_min_months": 6,
+        "age_max_months": 24,
+        "rating": 4.4,
+        "review_count": 819,
+        "tags": [
+            "BPA-free",
+            "easy-clean",
+            "soft-touch",
+            "non-toxic"
+        ],
+        "description": "High-quality lite humidifier designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1089,
+        "name": "Deluxe Furniture Anchors",
+        "price_aed": 262.76,
+        "category": "Safety",
+        "age_min_months": 0,
+        "age_max_months": 36,
+        "rating": 3.6,
+        "review_count": 593,
+        "tags": [
+            "BPA-free",
+            "soft-touch"
+        ],
+        "description": "High-quality deluxe furniture anchors designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1090,
+        "name": "Classic Insulated Bottle Bag",
+        "price_aed": 141.0,
+        "category": "Feeding",
+        "age_min_months": 24,
+        "age_max_months": 42,
+        "rating": 4.9,
+        "review_count": 99,
+        "tags": [
+            "eco-friendly",
+            "travel-friendly",
+            "easy-clean"
+        ],
+        "description": "High-quality classic insulated bottle bag designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1091,
+        "name": "Lite Inflatable Baby Bathtub",
+        "price_aed": 84.35,
+        "category": "Hygiene",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "rating": 4.5,
+        "review_count": 373,
+        "tags": [
+            "non-toxic",
+            "BPA-free"
+        ],
+        "description": "High-quality lite inflatable baby bathtub designed for comfort and safety. Perfect for your baby's daily needs in the hygiene category."
+    },
+    {
+        "id": 1092,
+        "name": "Essential Swim Diaper",
+        "price_aed": 191.0,
+        "category": "Clothing",
+        "age_min_months": 3,
+        "age_max_months": 27,
+        "rating": 4.9,
+        "review_count": 298,
+        "tags": [
+            "durable",
+            "travel-friendly"
+        ],
+        "description": "High-quality essential swim diaper designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1093,
+        "name": "Pro Universal Parasol",
+        "price_aed": 270.29,
+        "category": "Stroller",
+        "age_min_months": 12,
+        "age_max_months": 30,
+        "rating": 4.5,
+        "review_count": 328,
+        "tags": [
+            "durable",
+            "easy-clean"
+        ],
+        "description": "High-quality pro universal parasol designed for comfort and safety. Perfect for your baby's daily needs in the stroller category."
+    },
+    {
+        "id": 1094,
+        "name": "Essential Swaddle Blanket",
+        "price_aed": 211.05,
+        "category": "Clothing",
+        "age_min_months": 12,
+        "age_max_months": 30,
+        "rating": 3.8,
+        "review_count": 792,
+        "tags": [
+            "BPA-free",
+            "portable",
+            "soft-touch"
+        ],
+        "description": "High-quality essential swaddle blanket designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1095,
+        "name": "Standard Leather Soft-Sole Shoes",
+        "price_aed": 296.92,
+        "category": "Clothing",
+        "age_min_months": 6,
+        "age_max_months": 12,
+        "rating": 5.0,
+        "review_count": 815,
+        "tags": [
+            "eco-friendly",
+            "organic",
+            "durable"
+        ],
+        "description": "High-quality standard leather soft-sole shoes designed for comfort and safety. Perfect for your baby's daily needs in the clothing category."
+    },
+    {
+        "id": 1096,
+        "name": "Standard Storage Baskets",
+        "price_aed": 235.31,
+        "category": "Nursery",
+        "age_min_months": 3,
+        "age_max_months": 39,
+        "rating": 4.7,
+        "review_count": 453,
+        "tags": [
+            "portable",
+            "travel-friendly",
+            "non-toxic",
+            "easy-clean"
+        ],
+        "description": "High-quality standard storage baskets designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1097,
+        "name": "Pro Reusable Food Pouches",
+        "price_aed": 102.74,
+        "category": "Feeding",
+        "age_min_months": 12,
+        "age_max_months": 18,
+        "rating": 4.4,
+        "review_count": 274,
+        "tags": [
+            "travel-friendly",
+            "easy-clean"
+        ],
+        "description": "High-quality pro reusable food pouches designed for comfort and safety. Perfect for your baby's daily needs in the feeding category."
+    },
+    {
+        "id": 1098,
+        "name": "Lite Safety Gate Extension",
+        "price_aed": 72.03,
+        "category": "Safety",
+        "age_min_months": 18,
+        "age_max_months": 36,
+        "rating": 4.3,
+        "review_count": 563,
+        "tags": [
+            "travel-friendly",
+            "durable"
+        ],
+        "description": "High-quality lite safety gate extension designed for comfort and safety. Perfect for your baby's daily needs in the safety category."
+    },
+    {
+        "id": 1099,
+        "name": "Organic Nursery Wall Decals",
+        "price_aed": 243.4,
+        "category": "Nursery",
+        "age_min_months": 12,
+        "age_max_months": 18,
+        "rating": 3.7,
+        "review_count": 467,
+        "tags": [
+            "soft-touch",
+            "breathable",
+            "easy-clean",
+            "eco-friendly"
+        ],
+        "description": "High-quality organic nursery wall decals designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    },
+    {
+        "id": 1100,
+        "name": "Pro Laundry Hamper",
+        "price_aed": 90.11,
+        "category": "Nursery",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "rating": 4.1,
+        "review_count": 541,
+        "tags": [
+            "soft-touch",
+            "easy-clean",
+            "BPA-free",
+            "breathable"
+        ],
+        "description": "High-quality pro laundry hamper designed for comfort and safety. Perfect for your baby's daily needs in the nursery category."
+    }
+]

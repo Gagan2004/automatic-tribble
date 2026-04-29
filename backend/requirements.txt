@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymongo
+motor
+faiss-cpu
+pydantic
+pydantic-settings
+python-dotenv
+google-generativeai
+numpy
+requests
+scikit-learn
+ollama

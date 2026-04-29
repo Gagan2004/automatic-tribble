@@ -1,0 +1,3818 @@
+[
+    {
+        "id": "prod_001",
+        "name": "CloudSoft Organic Cotton Swaddle 3-Pack",
+        "category": "Sleep",
+        "sub_category": "Bedding",
+        "price": 145,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 4,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "breathable",
+            "eco_friendly",
+            "durable"
+        ],
+        "gift_score": 0.95,
+        "rating": 4.8,
+        "review_count": 1240,
+        "popularity_score": 92,
+        "description": "Ultra-soft GOTS certified organic cotton swaddle blankets designed to mimic the womb. Breathable weave prevents overheating while providing a secure fit.",
+        "key_benefits": [
+            "Reduces startle reflex for longer sleep",
+            "Gently regulates body temperature",
+            "Stays soft after multiple washes"
+        ],
+        "use_cases": [
+            "Nighttime sleeping",
+            "Stroller cover",
+            "Burp cloth alternative"
+        ],
+        "parent_pain_points_solved": [
+            "Soothes fussy infants",
+            "Prevents scratches from sharp nails",
+            "Reduces sleep interruptions"
+        ],
+        "search_keywords": [
+            "organic swaddle",
+            "newborn sleep sack",
+            "baby shower gift set"
+        ],
+        "embedding_text": "CloudSoft Organic Cotton Swaddle 3-Pack is a premium sleep essential for newborns aged 0-4 months. Made from hypoallergenic organic cotton, these breathable blankets help reduce the startle reflex and promote better sleep, making them a thoughtful and practical gift for new parents.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_002",
+        "name": "PureSoothe Silicone Teething Mitt",
+        "category": "Toys",
+        "sub_category": "Teething",
+        "price": 45,
+        "currency": "AED",
+        "age_min_months": 3,
+        "age_max_months": 8,
+        "development_stage": "teething",
+        "intent_tags": [
+            "practical",
+            "budget"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic",
+            "food_grade_silicone"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "portable"
+        ],
+        "gift_score": 0.65,
+        "rating": 4.5,
+        "review_count": 850,
+        "popularity_score": 88,
+        "description": "A wearable silicone mitt that protects baby's hands from saliva and chewing. Features a textured surface that provides instant relief to sore gums.",
+        "key_benefits": [
+            "Protects skin from moisture rash",
+            "Easy for babies to hold and use",
+            "Crinkle sound provides sensory stimulation"
+        ],
+        "use_cases": [
+            "Teething relief",
+            "Self-soothing",
+            "Sensory play"
+        ],
+        "parent_pain_points_solved": [
+            "Stops baby from dropping teethers",
+            "Reduces crying from gum pain",
+            "Prevents skin irritation on hands"
+        ],
+        "search_keywords": [
+            "teething mitten",
+            "baby gum relief",
+            "silicone chew toy"
+        ],
+        "embedding_text": "PureSoothe Silicone Teething Mitt is a budget-friendly and practical tool for babies aged 3-8 months who are in the teething stage. This BPA-free wearable toy provides gum relief and sensory engagement with its crinkle sound, solving the pain point of constantly dropped teethers.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_003",
+        "name": "SmartSteps Wood Activity Walker",
+        "category": "Toys",
+        "sub_category": "Developmental",
+        "price": 285,
+        "currency": "AED",
+        "age_min_months": 9,
+        "age_max_months": 24,
+        "development_stage": "walking",
+        "intent_tags": [
+            "premium",
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "dermatologically_tested"
+        ],
+        "feature_tags": [
+            "durable",
+            "multi_use"
+        ],
+        "gift_score": 0.88,
+        "rating": 4.9,
+        "review_count": 430,
+        "popularity_score": 85,
+        "description": "Multi-functional wooden walker with built-in puzzles, gear turning, and bead mazes. Designed to stabilize early steps while engaging fine motor skills.",
+        "key_benefits": [
+            "Encourages independent walking",
+            "Develops hand-eye coordination",
+            "Sturdy design prevents tipping"
+        ],
+        "use_cases": [
+            "Learning to walk",
+            "Sit-and-play floor time",
+            "Motor skill development"
+        ],
+        "parent_pain_points_solved": [
+            "Provides physical support for cruisers",
+            "Keeps toddlers engaged for long periods",
+            "Replaces multiple smaller toys"
+        ],
+        "search_keywords": [
+            "wooden walker for baby",
+            "push toy for 1 year old",
+            "montessori walker"
+        ],
+        "embedding_text": "The SmartSteps Wood Activity Walker is a premium, multi-use toy for toddlers aged 9-24 months. It supports the walking milestone with a durable wooden frame and integrated learning activities, making it an excellent birthday or festive gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_004",
+        "name": "QuickClean Silicone Bib with Food Catcher",
+        "category": "Feeding",
+        "sub_category": "Accessories",
+        "price": 35,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 36,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic",
+            "hypoallergenic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "portable",
+            "durable"
+        ],
+        "gift_score": 0.45,
+        "rating": 4.7,
+        "review_count": 2100,
+        "popularity_score": 95,
+        "description": "Ergonomic waterproof silicone bib with a deep pocket to catch falling food and liquids. Adjustable neck strap grows with your child.",
+        "key_benefits": [
+            "Dishwasher safe for easy cleanup",
+            "Soft material is comfortable for toddlers",
+            "Rolls up for easy travel storage"
+        ],
+        "use_cases": [
+            "Daily feeding",
+            "Dining out",
+            "Self-feeding practice"
+        ],
+        "parent_pain_points_solved": [
+            "Reduces laundry loads",
+            "Saves floor cleaning time",
+            "Protects baby clothes from stains"
+        ],
+        "search_keywords": [
+            "waterproof silicone bib",
+            "baby bib with pocket",
+            "easy clean feeding gear"
+        ],
+        "embedding_text": "The QuickClean Silicone Bib is a practical, budget-friendly feeding essential for babies and toddlers from 6 to 36 months. Its easy-clean, dishwasher-safe design and deep food catcher pocket solve the mess associated with daily feeding and self-feeding milestones.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_005",
+        "name": "SafeNight Digital Non-Contact Thermometer",
+        "category": "Health",
+        "sub_category": "Wellness",
+        "price": 180,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 60,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "emergency",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "festive"
+        ],
+        "safety_tags": [
+            "dermatologically_tested"
+        ],
+        "feature_tags": [
+            "portable",
+            "durable"
+        ],
+        "gift_score": 0.55,
+        "rating": 4.6,
+        "review_count": 560,
+        "popularity_score": 80,
+        "description": "Medical-grade infrared thermometer for instant temperature readings without touching the skin. Features a backlit screen and silent mode for night use.",
+        "key_benefits": [
+            "Reads temperature in 1 second",
+            "No-contact prevents germ spread",
+            "Store up to 20 previous readings"
+        ],
+        "use_cases": [
+            "Fever monitoring",
+            "Bath water temperature check",
+            "Milk bottle temperature check"
+        ],
+        "parent_pain_points_solved": [
+            "Check fever without waking baby",
+            "Accurate readings for peace of mind",
+            "Multi-use for home safety"
+        ],
+        "search_keywords": [
+            "infrared baby thermometer",
+            "no touch thermometer",
+            "digital fever reader"
+        ],
+        "embedding_text": "SafeNight Digital Non-Contact Thermometer is an essential health tool for all ages from 0 to 60 months. This practical and reliable device allows for silent, non-contact temperature monitoring during illness or daily checks, making it a must-have for emergency kits.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_006",
+        "name": "Bamboo-Z Baby Romper Set (Pack of 5)",
+        "category": "Clothing",
+        "sub_category": "Apparel",
+        "price": 210,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "premium",
+            "practical",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn",
+            "festive"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "eco_friendly",
+            "breathable"
+        ],
+        "gift_score": 0.92,
+        "rating": 4.9,
+        "review_count": 310,
+        "popularity_score": 89,
+        "description": "Luxuriously soft bamboo-viscose rompers with two-way zippers for easy diaper changes. Stretchy fabric accommodates rapid growth spurts.",
+        "key_benefits": [
+            "Silky texture gentle on eczema-prone skin",
+            "Easy-access zip for late-night changes",
+            "Moisture-wicking for hot climates"
+        ],
+        "use_cases": [
+            "Daily wear",
+            "Nighttime pajamas",
+            "Summer outings"
+        ],
+        "parent_pain_points_solved": [
+            "Simplifies diaper changes",
+            "Soothes sensitive skin",
+            "Long-lasting fit due to stretch"
+        ],
+        "search_keywords": [
+            "bamboo baby clothes",
+            "zipper romper for newborn",
+            "soft baby pajamas"
+        ],
+        "embedding_text": "Bamboo-Z Baby Romper Set offers a premium clothing option for infants aged 0-12 months. Crafted from hypoallergenic bamboo fabric, these rompers are perfect for newborns with sensitive skin and solve the hassle of diaper changes with a two-way zipper.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_007",
+        "name": "TinyTums Suction Bowl and Spoon Set",
+        "category": "Feeding",
+        "sub_category": "Tableware",
+        "price": 85,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 24,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "practical",
+            "thoughtful"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "durable"
+        ],
+        "gift_score": 0.72,
+        "rating": 4.4,
+        "review_count": 920,
+        "popularity_score": 87,
+        "description": "High-suction silicone bowl that stays fixed to high chairs and tables. Includes a soft-tip bamboo spoon designed for small hands.",
+        "key_benefits": [
+            "Prevents spills and flying bowls",
+            "Encourages self-feeding confidence",
+            "Heat-resistant and microwavable"
+        ],
+        "use_cases": [
+            "Starting solids",
+            "Self-feeding practice",
+            "Toddler snack time"
+        ],
+        "parent_pain_points_solved": [
+            "Ends mealtime mess",
+            "Reduces bowl throwing",
+            "Safe for gums during feeding"
+        ],
+        "search_keywords": [
+            "suction bowl for baby",
+            "silicone feeding set",
+            "baby weaning bowl"
+        ],
+        "embedding_text": "TinyTums Suction Bowl and Spoon Set is a practical feeding milestone tool for babies 6-24 months. The high-suction silicone design prevents mess and encourages independent eating, serving as a thoughtful gift for parents starting solids.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_008",
+        "name": "Discovery Cube Soft Sensory Toy",
+        "category": "Toys",
+        "sub_category": "Early Learning",
+        "price": 65,
+        "currency": "AED",
+        "age_min_months": 3,
+        "age_max_months": 18,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "thoughtful",
+            "budget",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "hypoallergenic"
+        ],
+        "feature_tags": [
+            "portable",
+            "multi_use"
+        ],
+        "gift_score": 0.78,
+        "rating": 4.3,
+        "review_count": 540,
+        "popularity_score": 76,
+        "description": "A plush sensory cube featuring mirrors, textures, bells, and teething rings. Designed to stimulate visual and tactile exploration.",
+        "key_benefits": [
+            "Stimulates sensory development",
+            "Lightweight for travel",
+            "Soft and safe for mouthing"
+        ],
+        "use_cases": [
+            "Tummy time play",
+            "Car seat entertainment",
+            "Sensory exploration"
+        ],
+        "parent_pain_points_solved": [
+            "Keeps baby occupied on the go",
+            "Safe alternative to hard toys",
+            "Encourages reaching and grabbing"
+        ],
+        "search_keywords": [
+            "soft sensory toy",
+            "baby activity cube",
+            "tummy time toy"
+        ],
+        "embedding_text": "Discovery Cube is a budget-friendly sensory toy for infants aged 3-18 months. Featuring textures and sounds, it supports crawling and tactile development, making it a portable and thoughtful gift choice for baby showers.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_009",
+        "name": "GoSafe Portable Stroller Organizer",
+        "category": "Travel",
+        "sub_category": "Accessories",
+        "price": 110,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 48,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "birthday"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean",
+            "multi_use"
+        ],
+        "gift_score": 0.62,
+        "rating": 4.8,
+        "review_count": 780,
+        "popularity_score": 83,
+        "description": "Universal stroller caddy with insulated cup holders and a detachable pouch. Keeps essentials like phones, keys, and bottles within reach.",
+        "key_benefits": [
+            "Universal fit for all stroller brands",
+            "Insulated pockets keep drinks cold/warm",
+            "Folds with the stroller"
+        ],
+        "use_cases": [
+            "Park walks",
+            "Mall shopping",
+            "Traveling with infants"
+        ],
+        "parent_pain_points_solved": [
+            "Eliminates digging through diaper bags",
+            "Provides extra storage for small items",
+            "Keeps parent hands-free"
+        ],
+        "search_keywords": [
+            "stroller organizer caddy",
+            "universal stroller bag",
+            "baby travel storage"
+        ],
+        "embedding_text": "The GoSafe Portable Stroller Organizer is a practical daily-use accessory for parents of children aged 0-48 months. Its universal fit and insulated compartments solve storage problems during outings, making it a useful gift for any new parent.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_010",
+        "name": "DreamWave White Noise Machine",
+        "category": "Sleep",
+        "sub_category": "Electronics",
+        "price": 195,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 60,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "thoughtful",
+            "premium"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "multi_use"
+        ],
+        "gift_score": 0.85,
+        "rating": 4.7,
+        "review_count": 1150,
+        "popularity_score": 91,
+        "description": "Rechargeable sound machine with 10 soothing sounds including heartbeat, white noise, and lullabies. Built-in warm nightlight and timer.",
+        "key_benefits": [
+            "Masks disruptive household noises",
+            "Portable design for travel sleep",
+            "Helps establish a sleep routine"
+        ],
+        "use_cases": [
+            "Nighttime sleep",
+            "Naptime consistency",
+            "Hotel or travel stay"
+        ],
+        "parent_pain_points_solved": [
+            "Soothes colicky babies",
+            "Drowns out loud siblings or pets",
+            "Creates a calming environment anywhere"
+        ],
+        "search_keywords": [
+            "baby white noise machine",
+            "portable sound machine",
+            "infant sleep aid"
+        ],
+        "embedding_text": "DreamWave White Noise Machine is a premium sleep aid suitable for all ages from newborn to 5 years. With soothing sounds and a nightlight, it solves the pain point of environmental noise disruptions, making it a highly giftable and practical item for better nursery sleep.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_011",
+        "name": "EcoBath Bamboo Hooded Towel Set",
+        "category": "Hygiene",
+        "sub_category": "Bath",
+        "price": 125,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 36,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "thoughtful",
+            "giftable",
+            "premium"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn",
+            "birthday"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic",
+            "dermatologically_tested"
+        ],
+        "feature_tags": [
+            "eco_friendly",
+            "breathable",
+            "durable"
+        ],
+        "gift_score": 0.90,
+        "rating": 4.9,
+        "review_count": 380,
+        "popularity_score": 82,
+        "description": "Extra-large, ultra-absorbent hooded towel made from organic bamboo. Includes a matching washcloth for delicate skin.",
+        "key_benefits": [
+            "Absorbs moisture 3x faster than cotton",
+            "Naturally antibacterial properties",
+            "Keeps baby warm after bath"
+        ],
+        "use_cases": [
+            "Post-bath drying",
+            "Swimming pool use",
+            "Beach trips"
+        ],
+        "parent_pain_points_solved": [
+            "Dries baby quickly to prevent chills",
+            "Gentle on sensitive or eczema-prone skin",
+            "Large size fits through toddler years"
+        ],
+        "search_keywords": [
+            "bamboo baby towel",
+            "hooded towel for toddler",
+            "organic baby bath set"
+        ],
+        "embedding_text": "EcoBath Bamboo Hooded Towel Set is a premium and thoughtful hygiene product for children aged 0-36 months. Its eco-friendly, hypoallergenic bamboo fabric is gentle on skin and highly absorbent, making it a favorite gift for baby showers and first birthdays.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_012",
+        "name": "GripN’Sip Weighted Straw Cup",
+        "category": "Feeding",
+        "sub_category": "Drinkware",
+        "price": 60,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 24,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "durable"
+        ],
+        "gift_score": 0.50,
+        "rating": 4.5,
+        "review_count": 1450,
+        "popularity_score": 90,
+        "description": "Leak-proof weighted straw cup that allows babies to drink from any angle, even while lying down. Easy-grip handles for small hands.",
+        "key_benefits": [
+            "Spill-proof design for less mess",
+            "Weighted straw follows the liquid",
+            "Easy to disassemble for cleaning"
+        ],
+        "use_cases": [
+            "Transitioning from bottle",
+            "Hydration on the go",
+            "Mealtime drinking"
+        ],
+        "parent_pain_points_solved": [
+            "Reduces liquid spills on carpets",
+            "Helps baby learn to use a straw",
+            "Stops frustration when tilting the cup"
+        ],
+        "search_keywords": [
+            "weighted straw cup",
+            "spill proof sippy cup",
+            "baby training cup"
+        ],
+        "embedding_text": "GripN’Sip Weighted Straw Cup is a practical daily-use feeding tool for infants aged 6-24 months. Its leak-proof, multi-angle drinking design helps babies master self-hydration and transition from bottles with ease.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_013",
+        "name": "Build-a-Skill Magnetic Blocks (24pc)",
+        "category": "Toys",
+        "sub_category": "Learning",
+        "price": 165,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "thoughtful",
+            "premium",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "durable"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "durable"
+        ],
+        "gift_score": 0.85,
+        "rating": 4.8,
+        "review_count": 670,
+        "popularity_score": 94,
+        "description": "Colorful magnetic tiles that snap together easily to create 3D structures. Promotes spatial awareness and STEM learning through play.",
+        "key_benefits": [
+            "Develops fine motor skills",
+            "Encourages creative problem solving",
+            "Safe, rounded edges for small hands"
+        ],
+        "use_cases": [
+            "Independent play",
+            "Group building activities",
+            "Learning shapes and colors"
+        ],
+        "parent_pain_points_solved": [
+            "Keeps older toddlers busy for hours",
+            "Safe, magnetic connection (no choking parts)",
+            "Educational value that grows with the child"
+        ],
+        "search_keywords": [
+            "magnetic tiles for toddlers",
+            "STEM toys for 3 year olds",
+            "creative building blocks"
+        ],
+        "embedding_text": "Build-a-Skill Magnetic Blocks are a premium educational toy for children aged 24-60 months. These magnetic tiles foster STEM skills and creativity, making them a high-score gift for birthdays and festive occasions.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_014",
+        "name": "NoseHero Electric Nasal Aspirator",
+        "category": "Health",
+        "sub_category": "Hygiene",
+        "price": 240,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 36,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "emergency",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "portable"
+        ],
+        "gift_score": 0.40,
+        "rating": 4.6,
+        "review_count": 510,
+        "popularity_score": 78,
+        "description": "Rechargeable electric snot sucker with adjustable suction levels and soft silicone tips. Includes music and light to distract fussy babies.",
+        "key_benefits": [
+            "Quickly clears congested airways",
+            "Hygienic and easy to wash",
+            "Gentle on sensitive nasal passages"
+        ],
+        "use_cases": [
+            "Colds and flu relief",
+            "Allergy management",
+            "Clearing nose before feeding"
+        ],
+        "parent_pain_points_solved": [
+            "Saves sleep during baby illness",
+            "Easier to use than manual aspirators",
+            "Reduces baby distress from congestion"
+        ],
+        "search_keywords": [
+            "electric baby nasal aspirator",
+            "snot sucker for infants",
+            "baby congestion relief"
+        ],
+        "embedding_text": "NoseHero Electric Nasal Aspirator is a practical and emergency-ready health product for babies aged 0-36 months. Its gentle suction and distracting features help parents clear congestion effectively, solving a major pain point during infant illness.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_015",
+        "name": "SecureSteps Edge Protectors (12 Pack)",
+        "category": "Safety",
+        "sub_category": "Home Safety",
+        "price": 55,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 48,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "emergency"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "dermatologically_tested"
+        ],
+        "feature_tags": [
+            "durable",
+            "easy_clean"
+        ],
+        "gift_score": 0.25,
+        "rating": 4.4,
+        "review_count": 890,
+        "popularity_score": 72,
+        "description": "Clear, soft silicone corner guards with pre-applied adhesive. Blends into furniture while protecting active toddlers from sharp edges.",
+        "key_benefits": [
+            "High-impact absorption",
+            "Discreet design doesn't ruin decor",
+            "Strong adhesive stays in place"
+        ],
+        "use_cases": [
+            "Baby-proofing coffee tables",
+            "Safe-guarding kitchen counters",
+            "Protecting sharp desk corners"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents head injuries in cruisers",
+            "Easy installation for busy parents",
+            "Peace of mind during playtime"
+        ],
+        "search_keywords": [
+            "baby proofing corner guards",
+            "safety edge protectors",
+            "furniture corner safety"
+        ],
+        "embedding_text": "SecureSteps Edge Protectors are a budget-friendly and practical safety essential for parents of crawling and walking children (6-48 months). They solve the pain point of sharp furniture edges, providing essential home protection as baby explores.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_016",
+        "name": "LittleChef Bamboo Feeding Set",
+        "category": "Feeding",
+        "sub_category": "Tableware",
+        "price": 135,
+        "currency": "AED",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "thoughtful",
+            "giftable",
+            "premium"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "bpa_free"
+        ],
+        "feature_tags": [
+            "eco_friendly",
+            "durable"
+        ],
+        "gift_score": 0.82,
+        "rating": 4.7,
+        "review_count": 290,
+        "popularity_score": 81,
+        "description": "A 5-piece eco-friendly bamboo set including a divided plate, bowl, cup, and cutlery. Features fun animal designs to encourage eating.",
+        "key_benefits": [
+            "Eco-friendly alternative to plastic",
+            "Divided sections for balanced meals",
+            "Durable enough for toddler use"
+        ],
+        "use_cases": [
+            "Daily meals",
+            "Birthday gift",
+            "Learning food categories"
+        ],
+        "parent_pain_points_solved": [
+            "Makes healthy eating fun",
+            "Reduces chemical exposure from plastics",
+            "Easy to handle for toddlers"
+        ],
+        "search_keywords": [
+            "bamboo toddler plate set",
+            "divided baby plate",
+            "eco friendly feeding gift"
+        ],
+        "embedding_text": "LittleChef Bamboo Feeding Set is a thoughtful and premium gift for toddlers aged 12-48 months. This eco-friendly, animal-themed tableware encourages healthy eating habits and is perfect for birthdays or festive gifts.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_017",
+        "name": "MightyMover 3-Wheel Kick Scooter",
+        "category": "Toys",
+        "sub_category": "Outdoor",
+        "price": 275,
+        "currency": "AED",
+        "age_min_months": 36,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "premium",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "durable"
+        ],
+        "feature_tags": [
+            "durable",
+            "multi_use"
+        ],
+        "gift_score": 0.94,
+        "rating": 4.9,
+        "review_count": 450,
+        "popularity_score": 96,
+        "description": "Stable three-wheel design with lean-to-steer technology. Height-adjustable handlebar grows with the child and features LED light-up wheels.",
+        "key_benefits": [
+            "Builds balance and coordination",
+            "Light-up wheels for visibility and fun",
+            "Adjustable height for years of use"
+        ],
+        "use_cases": [
+            "Outdoor park play",
+            "Active commuting to school",
+            "Developing motor skills"
+        ],
+        "parent_pain_points_solved": [
+            "Encourages outdoor physical activity",
+            "Stable design prevents falls for beginners",
+            "Long-lasting toy that doesn't quickly outgrow"
+        ],
+        "search_keywords": [
+            "toddler kick scooter",
+            "3 wheel scooter for kids",
+            "scooter with light up wheels"
+        ],
+        "embedding_text": "MightyMover 3-Wheel Kick Scooter is a premium outdoor toy for kids aged 36-60 months. It helps build balance and coordination while providing tons of fun with light-up wheels, making it a top-tier birthday gift for active toddlers.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_018",
+        "name": "PureCare Baby Grooming Kit (10pc)",
+        "category": "Hygiene",
+        "sub_category": "Grooming",
+        "price": 95,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "thoughtful"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean"
+        ],
+        "gift_score": 0.70,
+        "rating": 4.5,
+        "review_count": 620,
+        "popularity_score": 84,
+        "description": "Complete healthcare and grooming set including soft brush, comb, nail clippers, and nasal aspirator in a compact travel case.",
+        "key_benefits": [
+            "Everything needed in one organized kit",
+            "Safe tools designed for tiny bodies",
+            "Perfect for diaper bag storage"
+        ],
+        "use_cases": [
+            "Daily grooming",
+            "Travel hygiene",
+            "Trimming baby nails"
+        ],
+        "parent_pain_points_solved": [
+            "No more hunting for individual tools",
+            "Safe way to cut tiny, sharp nails",
+            "Organized storage for small items"
+        ],
+        "search_keywords": [
+            "baby grooming set",
+            "infant health kit",
+            "newborn nail clipper set"
+        ],
+        "embedding_text": "PureCare Baby Grooming Kit is a practical and thoughtful grooming solution for newborns and infants up to 24 months. This 10-piece set covers essential hygiene needs and is a common baby shower favorite due to its completeness and travel-friendly case.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_019",
+        "name": "Stack-n-Sort Geometric Tower",
+        "category": "Toys",
+        "sub_category": "Learning",
+        "price": 50,
+        "currency": "AED",
+        "age_min_months": 12,
+        "age_max_months": 36,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "budget",
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "bpa_free"
+        ],
+        "feature_tags": [
+            "durable",
+            "eco_friendly"
+        ],
+        "gift_score": 0.75,
+        "rating": 4.7,
+        "review_count": 340,
+        "popularity_score": 79,
+        "description": "Classic wooden stacking rings and shape sorting tower. Helps toddlers learn colors, sizes, and sequences through tactile play.",
+        "key_benefits": [
+            "Promotes logical thinking",
+            "Enhances fine motor skills",
+            "Durable natural wood construction"
+        ],
+        "use_cases": [
+            "Early learning play",
+            "Floor time activity",
+            "Color recognition practice"
+        ],
+        "parent_pain_points_solved": [
+            "Engages brain without electronics",
+            "Sturdy enough to withstand throwing",
+            "Educational value at a low price"
+        ],
+        "search_keywords": [
+            "wooden stacking toy",
+            "shape sorter for toddler",
+            "montessori stacking rings"
+        ],
+        "embedding_text": "Stack-n-Sort Geometric Tower is a budget-friendly and thoughtful educational toy for toddlers aged 12-36 months. This classic wooden toy encourages motor skill development and logical thinking, serving as a great milestone or birthday gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_020",
+        "name": "SafeCrawl Knee Pads for Babies",
+        "category": "Clothing",
+        "sub_category": "Safety",
+        "price": 40,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 15,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "practical",
+            "budget"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "breathable",
+            "multi_use"
+        ],
+        "gift_score": 0.40,
+        "rating": 4.2,
+        "review_count": 520,
+        "popularity_score": 75,
+        "description": "Stretchy, breathable knee pads with silicone anti-slip dots. Protects baby's knees from scrapes and bruises while crawling on hard floors.",
+        "key_benefits": [
+            "Prevents carpet burns and floor bruises",
+            "Anti-slip grip helps with traction",
+            "Soft and comfortable fit"
+        ],
+        "use_cases": [
+            "Crawling on hardwood floors",
+            "Outdoor tile play",
+            "Cruising practice"
+        ],
+        "parent_pain_points_solved": [
+            "Protects delicate skin during activity",
+            "Keeps knees warm on cold floors",
+            "Helps baby crawl more confidently"
+        ],
+        "search_keywords": [
+            "baby crawling knee pads",
+            "anti slip baby knee protectors",
+            "infant knee guards"
+        ],
+        "embedding_text": "SafeCrawl Knee Pads are a budget and practical accessory for babies in the crawling stage (6-15 months). These breathable protectors solve the problem of bruised knees on hard floors, making crawling a more comfortable milestone for infants.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_021",
+        "name": "AquaFun Inflatable Tummy Time Mat",
+        "category": "Toys",
+        "sub_category": "Sensory",
+        "price": 75,
+        "currency": "AED",
+        "age_min_months": 3,
+        "age_max_months": 12,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "thoughtful",
+            "budget",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean"
+        ],
+        "gift_score": 0.80,
+        "rating": 4.4,
+        "review_count": 890,
+        "popularity_score": 86,
+        "description": "A leak-proof water mat with floating marine toys inside. Encourages baby to stay on their tummy while strengthening neck and shoulder muscles.",
+        "key_benefits": [
+            "Makes tummy time engaging and fun",
+            "Strengthens motor skills and core muscles",
+            "Cooling effect for hot weather play"
+        ],
+        "use_cases": [
+            "Daily tummy time routine",
+            "Sensory water play",
+            "Physical development"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents baby from getting bored during tummy time",
+            "Stimulates visual tracking with floating toys",
+            "Easy to drain and fold for travel"
+        ],
+        "search_keywords": [
+            "water play mat for baby",
+            "tummy time water mat",
+            "sensory baby mat"
+        ],
+        "embedding_text": "AquaFun Inflatable Tummy Time Mat is a budget-friendly sensory toy for babies aged 3-12 months. It makes physical development fun by using water and floating toys to engage the infant, making it a thoughtful gift for new parents focusing on milestones.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_022",
+        "name": "CloudNine Breathable Crib Mattress Protector",
+        "category": "Sleep",
+        "sub_category": "Bedding",
+        "price": 115,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 48,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "breathable",
+            "easy_clean",
+            "durable"
+        ],
+        "gift_score": 0.35,
+        "rating": 4.8,
+        "review_count": 640,
+        "popularity_score": 77,
+        "description": "100% waterproof yet breathable 3D air-mesh mattress cover. Protects the mattress from leaks and spills while ensuring optimal airflow.",
+        "key_benefits": [
+            "Prevents mold and bacteria growth",
+            "Noisy-free movement for light sleepers",
+            "Hypoallergenic barrier for dust mites"
+        ],
+        "use_cases": [
+            "Daily crib protection",
+            "Potty training transition",
+            "Allergy management"
+        ],
+        "parent_pain_points_solved": [
+            "Protects expensive mattresses",
+            "Easy to machine wash and dry",
+            "Reduces overheating during sleep"
+        ],
+        "search_keywords": [
+            "waterproof crib mattress cover",
+            "breathable mattress protector",
+            "hypoallergenic baby bedding"
+        ],
+        "embedding_text": "CloudNine Breathable Crib Mattress Protector is a practical daily-use sleep essential for children aged 0-48 months. Its waterproof and breathable air-mesh technology protects mattresses and ensures a safe, hygienic sleep environment for babies and toddlers.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_023",
+        "name": "TinyTraveler Diaper Backpack Bundle",
+        "category": "Gifting Bundles",
+        "sub_category": "Travel",
+        "price": 295,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 48,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "premium",
+            "practical",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "multi_use",
+            "durable"
+        ],
+        "gift_score": 0.98,
+        "rating": 4.9,
+        "review_count": 320,
+        "popularity_score": 93,
+        "description": "A high-end diaper backpack featuring 14 pockets, insulated bottle holders, and a matching portable changing mat. Includes stroller straps.",
+        "key_benefits": [
+            "Keeps all baby gear organized",
+            "Stylish unisex design for both parents",
+            "Durable water-resistant fabric"
+        ],
+        "use_cases": [
+            "Full-day outings",
+            "Air travel with baby",
+            "Daily errands"
+        ],
+        "parent_pain_points_solved": [
+            "Ends messy bag searching",
+            "Hands-free convenience",
+            "Keeps milk at the right temperature"
+        ],
+        "search_keywords": [
+            "diaper bag backpack set",
+            "premium baby bag",
+            "travel diaper bag bundle"
+        ],
+        "embedding_text": "The TinyTraveler Diaper Backpack Bundle is a premium and practical gifting choice for new parents. Suitable for babies 0-48 months, this all-in-one set solves storage and organization pain points during travel and daily use, making it an ideal baby shower gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_024",
+        "name": "BrightBeginnings Flash Card Set (Alphabet & Numbers)",
+        "category": "Learning",
+        "sub_category": "Educational",
+        "price": 45,
+        "currency": "AED",
+        "age_min_months": 18,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "budget",
+            "thoughtful"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "durable"
+        ],
+        "gift_score": 0.68,
+        "rating": 4.5,
+        "review_count": 410,
+        "popularity_score": 72,
+        "description": "Large, durable flashcards with high-contrast illustrations. Teaches basic letters, numbers, and common animal names.",
+        "key_benefits": [
+            "Improves early vocabulary",
+            "Thick cards resistant to bending",
+            "Engaging colors for toddlers"
+        ],
+        "use_cases": [
+            "Home learning sessions",
+            "Waiting room entertainment",
+            "Language development"
+        ],
+        "parent_pain_points_solved": [
+            "Inexpensive educational tool",
+            "Keeps kids engaged screen-free",
+            "Portable learning on the go"
+        ],
+        "search_keywords": [
+            "baby flash cards",
+            "alphabet cards for toddlers",
+            "educational cards for 2 year old"
+        ],
+        "embedding_text": "BrightBeginnings Flash Card Set is a budget-friendly learning tool for toddlers aged 18-60 months. These durable cards help develop early literacy and numeracy, making them a thoughtful and practical addition to a child's milestone learning journey.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_025",
+        "name": "MilkMaster Electric Bottle Warmer",
+        "category": "Feeding",
+        "sub_category": "Electronics",
+        "price": 165,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "festive"
+        ],
+        "safety_tags": [
+            "bpa_free"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "multi_use"
+        ],
+        "gift_score": 0.65,
+        "rating": 4.6,
+        "review_count": 580,
+        "popularity_score": 85,
+        "description": "Quick-heat bottle warmer that preserves nutrients in breast milk. Features an automatic shut-off and a baby food jar warming basket.",
+        "key_benefits": [
+            "Warms milk in under 3 minutes",
+            "Uniform heating prevents hot spots",
+            "Fits most major bottle brands"
+        ],
+        "use_cases": [
+            "Late night feedings",
+            "Warming expressed milk",
+            "Heating baby food jars"
+        ],
+        "parent_pain_points_solved": [
+            "Saves time during middle-of-night feeding",
+            "Ensures safe milk temperature",
+            "Easy one-handed operation"
+        ],
+        "search_keywords": [
+            "baby bottle warmer",
+            "breast milk warmer",
+            "fast bottle heater"
+        ],
+        "embedding_text": "The MilkMaster Electric Bottle Warmer is a practical daily-use feeding appliance for parents of infants 0-12 months. It ensures safe and fast heating of milk and food, solving the pain point of slow or uneven warming during urgent feeding times.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_026",
+        "name": "SnugglePuff Plush Security Blanket",
+        "category": "Sleep",
+        "sub_category": "Bedding",
+        "price": 55,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 36,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "thoughtful",
+            "giftable",
+            "budget"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "milestone",
+            "festive"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean"
+        ],
+        "gift_score": 0.88,
+        "rating": 4.8,
+        "review_count": 940,
+        "popularity_score": 89,
+        "description": "Miniature plush animal attached to a soft fleece blanket. The perfect size for little hands to hold for self-soothing and comfort.",
+        "key_benefits": [
+            "Provides emotional security",
+            "Ideal for transition to daycare",
+            "Soft, sensory textures for sleep"
+        ],
+        "use_cases": [
+            "Napping comfort",
+            "Car ride soothing",
+            "Bedtime routine"
+        ],
+        "parent_pain_points_solved": [
+            "Helps baby self-soothe",
+            "Reduces separation anxiety",
+            "Easy for baby to find in the crib"
+        ],
+        "search_keywords": [
+            "baby security blanket",
+            "lovey for infant",
+            "soothing plush blanket"
+        ],
+        "embedding_text": "SnugglePuff Plush Security Blanket is a thoughtful and budget-friendly sleep accessory for children 6-36 months. Its combination of a plush toy and soft blanket provides emotional comfort and self-soothing, making it a wonderful gift for milestones or birthdays.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_027",
+        "name": "FlexiGuard Multi-Purpose Safety Locks (6pc)",
+        "category": "Safety",
+        "sub_category": "Home Safety",
+        "price": 65,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 48,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "emergency"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "durable",
+            "multi_use"
+        ],
+        "gift_score": 0.30,
+        "rating": 4.3,
+        "review_count": 1100,
+        "popularity_score": 78,
+        "description": "Flexible strap locks that fit around corners and curved surfaces. Ideal for securing cabinets, toilets, and refrigerators from curious toddlers.",
+        "key_benefits": [
+            "No drilling or tools required",
+            "Strong 3M adhesive backing",
+            "Adjustable length for all appliances"
+        ],
+        "use_cases": [
+            "Kitchen cabinet safety",
+            "Fridge door locking",
+            "Toilet seat security"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents access to cleaning supplies",
+            "Stops fingers from getting pinched",
+            "Quick and easy baby-proofing"
+        ],
+        "search_keywords": [
+            "baby safety locks",
+            "child proof cabinet latch",
+            "strap locks for baby proofing"
+        ],
+        "embedding_text": "FlexiGuard Multi-Purpose Safety Locks are essential budget-friendly safety tools for the crawling and toddler stages (6-48 months). These easy-to-install locks solve the danger of household hazards, providing a practical solution for baby-proofing any home.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_028",
+        "name": "TotTune Portable Music Player",
+        "category": "Toys",
+        "sub_category": "Sensory",
+        "price": 140,
+        "currency": "AED",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "development_stage": "walking",
+        "intent_tags": [
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "durable"
+        ],
+        "feature_tags": [
+            "portable",
+            "multi_use"
+        ],
+        "gift_score": 0.82,
+        "rating": 4.6,
+        "review_count": 280,
+        "popularity_score": 84,
+        "description": "Toddler-friendly MP3 player with pre-loaded nursery rhymes. Large buttons and a durable, drop-proof casing for little musicians.",
+        "key_benefits": [
+            "Encourages language through song",
+            "Builds independent play",
+            "Safe alternative to phone/tablets"
+        ],
+        "use_cases": [
+            "Dancing and movement",
+            "Quiet time listening",
+            "Travel entertainment"
+        ],
+        "parent_pain_points_solved": [
+            "Keeps child entertained without screens",
+            "Withstands rough toddler handling",
+            "Saves parent's phone battery"
+        ],
+        "search_keywords": [
+            "toddler music player",
+            "baby mp3 toy",
+            "audio player for kids"
+        ],
+        "embedding_text": "TotTune Portable Music Player is a thoughtful and durable gift for toddlers aged 12-48 months. It promotes auditory learning and movement without screen time, making it a perfect birthday gift that handles the rough play of the walking stage.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_029",
+        "name": "PurePuff Bio-Degradable Wipes Bundle (12 packs)",
+        "category": "Hygiene",
+        "sub_category": "Diapering",
+        "price": 185,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 60,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "daily-use",
+            "budget"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "baby_shower"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "dermatologically_tested",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "eco_friendly",
+            "multi_use"
+        ],
+        "gift_score": 0.50,
+        "rating": 4.8,
+        "review_count": 2500,
+        "popularity_score": 97,
+        "description": "99% water-based wipes made from sustainable bamboo fibers. Plastic-free, compostable, and safe for even the most sensitive newborn skin.",
+        "key_benefits": [
+            "Gentle on diaper rash and eczema",
+            "Environmentally conscious choice",
+            "Extra-large and thick for heavy messes"
+        ],
+        "use_cases": [
+            "Diaper changes",
+            "Cleaning messy faces/hands",
+            "Surface wiping"
+        ],
+        "parent_pain_points_solved": [
+            "Reduces skin irritation",
+            "Bulk savings on daily essentials",
+            "Guilt-free disposable product"
+        ],
+        "search_keywords": [
+            "biodegradable baby wipes",
+            "water wipes bulk",
+            "sensitive skin baby wipes"
+        ],
+        "embedding_text": "PurePuff Bio-Degradable Wipes are a practical and eco-friendly hygiene staple for all ages (0-60 months). This bulk bundle is a high-value daily-use item that solves the problem of skin sensitivity and environmental waste, making it a great baby shower contribution.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_030",
+        "name": "Learn-to-Build STEM Crane Set",
+        "category": "Learning",
+        "sub_category": "Educational",
+        "price": 190,
+        "currency": "AED",
+        "age_min_months": 36,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "premium",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "durable",
+            "multi_use"
+        ],
+        "gift_score": 0.89,
+        "rating": 4.9,
+        "review_count": 150,
+        "popularity_score": 88,
+        "description": "A construction set with real working pulleys and gears. Allows children to build their own crane while learning basic mechanics.",
+        "key_benefits": [
+            "Teals early engineering concepts",
+            "Improves focus and patience",
+            "Hands-on problem solving"
+        ],
+        "use_cases": [
+            "Constructive play",
+            "Learning simple machines",
+            "Group STEM activities"
+        ],
+        "parent_pain_points_solved": [
+            "Provides high-level cognitive engagement",
+            "Alternative to digital gaming",
+            "Fosters a love for building"
+        ],
+        "search_keywords": [
+            "STEM toy for 4 year old",
+            "building set for kids",
+            "construction toy crane"
+        ],
+        "embedding_text": "The Learn-to-Build STEM Crane Set is a premium educational gift for children aged 36-60 months. It targets the advanced toddler development stage by teaching basic engineering through hands-on play, making it a standout birthday or festive gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_031",
+        "name": "SnuggleShield Car Seat Sun Shade",
+        "category": "Travel",
+        "sub_category": "Accessories",
+        "price": 85,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 36,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "breathable"
+        ],
+        "gift_score": 0.58,
+        "rating": 4.5,
+        "review_count": 640,
+        "popularity_score": 81,
+        "description": "Magnetic window sun shades that block 98% of UV rays. Keeps the car cool and protects baby's eyes from direct sunlight during trips.",
+        "key_benefits": [
+            "UPF 50+ sun protection",
+            "Quick magnetic attachment",
+            "Window can still be rolled down"
+        ],
+        "use_cases": [
+            "Summer car trips",
+            "Protecting sleeping infants",
+            "Long distance travel"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents overheating in the car",
+            "Stops glare from waking sleeping baby",
+            "No messy suction cup marks"
+        ],
+        "search_keywords": [
+            "car sun shade for baby",
+            "magnetic baby car shade",
+            "UV protection for car windows"
+        ],
+        "embedding_text": "SnuggleShield Car Seat Sun Shade is a practical and protective travel accessory for infants and toddlers (0-36 months). Its UPF 50+ protection and magnetic installation solve the pain point of car heat and sun glare, making it a daily-use essential for parents.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_032",
+        "name": "GentleGroom Electric Nail File",
+        "category": "Health",
+        "sub_category": "Grooming",
+        "price": 120,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 60,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "dermatologically_tested"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean"
+        ],
+        "gift_score": 0.85,
+        "rating": 4.7,
+        "review_count": 1800,
+        "popularity_score": 95,
+        "description": "A whisper-quiet electric nail trimmer with 6 interchangeable filing heads for different ages. Safely trims tiny nails without harming cuticles.",
+        "key_benefits": [
+            "Safe and pain-free nail care",
+            "Silent motor for trimming while asleep",
+            "Includes adult filing heads too"
+        ],
+        "use_cases": [
+            "Safe baby nail trimming",
+            "Preventing self-scratches",
+            "Toddler manicures"
+        ],
+        "parent_pain_points_solved": [
+            "Fear of cutting baby's skin with clippers",
+            "Difficulty trimming squirmy infant nails",
+            "Eliminates sharp nail edges"
+        ],
+        "search_keywords": [
+            "electric baby nail trimmer",
+            "safe baby nail file",
+            "infant nail groomer"
+        ],
+        "embedding_text": "GentleGroom Electric Nail File is a highly practical and thoughtful tool for all ages (0-60 months). It solves the common parent fear of clipping baby's skin, making nail care safe and stress-free. Its giftability score is high for baby showers and new arrivals.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_033",
+        "name": "Organic Comfort Nursing Pillow",
+        "category": "Nursing",
+        "sub_category": "Support",
+        "price": 225,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "premium",
+            "practical",
+            "thoughtful"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "multi_use"
+        ],
+        "gift_score": 0.92,
+        "rating": 4.8,
+        "review_count": 720,
+        "popularity_score": 88,
+        "description": "Ergonomic U-shaped pillow with a 100% organic cotton cover. Provides lumbar support for mom and ideal positioning for baby during feeding.",
+        "key_benefits": [
+            "Reduces neck and back strain",
+            "Helps baby maintain latch position",
+            "Multi-use for propping and tummy time"
+        ],
+        "use_cases": [
+            "Breastfeeding/Bottle feeding",
+            "Baby propping (6m+)",
+            "Tummy time support"
+        ],
+        "parent_pain_points_solved": [
+            "Relieves physical fatigue during feeding",
+            "Corrects posture while nursing",
+            "Supports baby weight comfortably"
+        ],
+        "search_keywords": [
+            "organic nursing pillow",
+            "breastfeeding support pillow",
+            "baby feeding cushion"
+        ],
+        "embedding_text": "Organic Comfort Nursing Pillow is a premium support product for the newborn stage (0-12 months). It is a thoughtful and practical gift for new mothers, providing ergonomic relief and supporting the baby's feeding position, making it a baby shower staple.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_034",
+        "name": "SplashSafe Foldable Baby Tub",
+        "category": "Hygiene",
+        "sub_category": "Bath",
+        "price": 195,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean",
+            "multi_use"
+        ],
+        "gift_score": 0.68,
+        "rating": 4.6,
+        "review_count": 480,
+        "popularity_score": 84,
+        "description": "Space-saving collapsible bathtub with a built-in temperature sensor plug and non-slip legs. Deep design for full body immersion.",
+        "key_benefits": [
+            "Folds flat for storage and travel",
+            "Heat-sensitive plug indicates water temp",
+            "Non-slip base ensures stability"
+        ],
+        "use_cases": [
+            "Newborn bathing",
+            "Apartment living (small space)",
+            "Travel bath for toddlers"
+        ],
+        "parent_pain_points_solved": [
+            "Solves storage issues for bulky tubs",
+            "Prevents bath water from being too hot",
+            "Safe and stable bath environment"
+        ],
+        "search_keywords": [
+            "foldable baby bathtub",
+            "collapsible infant tub",
+            "baby bath with temp sensor"
+        ],
+        "embedding_text": "SplashSafe Foldable Baby Tub is a practical, daily-use hygiene product for infants 0-24 months. Its collapsible design and safety temperature sensor solve the pain points of limited space and bath water safety, making it a great practical gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_035",
+        "name": "PlayTime Foldable Foam Floor Mat",
+        "category": "Toys",
+        "sub_category": "Sensory",
+        "price": 245,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 60,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "premium",
+            "practical",
+            "thoughtful"
+        ],
+        "occasion_tags": [
+            "milestone",
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "bpa_free",
+            "hypoallergenic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "durable",
+            "portable"
+        ],
+        "gift_score": 0.85,
+        "rating": 4.9,
+        "review_count": 610,
+        "popularity_score": 90,
+        "description": "Extra-large reversible play mat with soft XPE foam. Features educational patterns on one side and modern neutral decor on the other.",
+        "key_benefits": [
+            "Protects against falls and impacts",
+            "Waterproof and easy to wipe clean",
+            "Foldable for quick storage"
+        ],
+        "use_cases": [
+            "Tummy time and crawling",
+            "Active toddler play",
+            "Nursery room decor"
+        ],
+        "parent_pain_points_solved": [
+            "Creates a safe zone on hard floors",
+            "Easy cleanup for spit-up and spills",
+            "Tuck away when guests arrive"
+        ],
+        "search_keywords": [
+            "foldable baby play mat",
+            "XPE foam mat for toddler",
+            "reversible baby floor mat"
+        ],
+        "embedding_text": "PlayTime Foldable Foam Floor Mat is a premium and practical solution for the crawling stage and beyond (0-60 months). Its protective foam and easy-to-clean surface make it a thoughtful gift for milestones, ensuring a safe and hygienic play area.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_036",
+        "name": "WarmHug Microwavable Soothing Pack",
+        "category": "Health",
+        "sub_category": "Wellness",
+        "price": 65,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 60,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "thoughtful",
+            "budget",
+            "emergency"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "milestone"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "portable"
+        ],
+        "gift_score": 0.72,
+        "rating": 4.4,
+        "review_count": 340,
+        "popularity_score": 75,
+        "description": "Natural grain-filled plush heating pad designed to relieve colic and gas. Can also be chilled for bumps and bruises.",
+        "key_benefits": [
+            "Natural relief for colicky infants",
+            "Soft plush exterior is gentle on skin",
+            "Double-sided use (hot and cold)"
+        ],
+        "use_cases": [
+            "Colic and tummy relief",
+            "Cold compress for fever",
+            "Bed warmer"
+        ],
+        "parent_pain_points_solved": [
+            "Soothes gassy babies without meds",
+            "Easy alternative to traditional hot water bottles",
+            "Multi-age use for growing children"
+        ],
+        "search_keywords": [
+            "colic relief for baby",
+            "baby heating pad",
+            "microwavable soothing toy"
+        ],
+        "embedding_text": "WarmHug Microwavable Soothing Pack is a thoughtful budget-friendly health item for all ages (0-60 months). It solves the common pain point of infant colic and gas using natural heat therapy, making it a practical gift for new arrivals and milestones.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_037",
+        "name": "BrightBite Silicone Teething Necklace",
+        "category": "Toys",
+        "sub_category": "Teething",
+        "price": 55,
+        "currency": "AED",
+        "age_min_months": 4,
+        "age_max_months": 18,
+        "development_stage": "teething",
+        "intent_tags": [
+            "thoughtful",
+            "practical",
+            "budget"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic",
+            "food_grade_silicone"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "easy_clean"
+        ],
+        "gift_score": 0.75,
+        "rating": 4.3,
+        "review_count": 520,
+        "popularity_score": 80,
+        "description": "Stylish silicone jewelry for moms that babies can safely chew on. Features a breakaway safety clasp and sensory textures.",
+        "key_benefits": [
+            "Keep baby occupied while being held",
+            "Safe alternative to regular jewelry",
+            "Easy to clean in the dishwasher"
+        ],
+        "use_cases": [
+            "Teething relief on the go",
+            "Sensory stimulation during nursing",
+            "Fashion accessory for parents"
+        ],
+        "parent_pain_points_solved": [
+            "Stops baby from pulling mom's hair/skin",
+            "Always have a teether available",
+            "Safe for mouthing while traveling"
+        ],
+        "search_keywords": [
+            "teething necklace for mom",
+            "silicone nursing necklace",
+            "baby chew jewelry"
+        ],
+        "embedding_text": "BrightBite Silicone Teething Necklace is a thoughtful and budget-friendly product for the teething stage (4-18 months). It serves as both a fashion accessory for moms and a safe teething tool for babies, solving the problem of fussy infants during baby wearing or nursing.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_038",
+        "name": "StepUp Two-Stage Potty Trainer",
+        "category": "Hygiene",
+        "sub_category": "Potty Training",
+        "price": 145,
+        "currency": "AED",
+        "age_min_months": 18,
+        "age_max_months": 48,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "durable",
+            "multi_use"
+        ],
+        "gift_score": 0.45,
+        "rating": 4.7,
+        "review_count": 890,
+        "popularity_score": 92,
+        "description": "A versatile potty chair that transitions from a floor potty to a removable toilet seat topper and step stool. High backrest for comfort.",
+        "key_benefits": [
+            "Grows with your child's progress",
+            "Easy-to-empty removable bowl",
+            "Non-slip base for safety"
+        ],
+        "use_cases": [
+            "Potty training initiation",
+            "Toddler toilet independence",
+            "Bathroom step stool"
+        ],
+        "parent_pain_points_solved": [
+            "Simplifies the potty training journey",
+            "Reduces the need for multiple products",
+            "Easy cleanup for bathroom accidents"
+        ],
+        "search_keywords": [
+            "toddler potty chair",
+            "3 in 1 potty trainer",
+            "potty training step stool"
+        ],
+        "embedding_text": "StepUp Two-Stage Potty Trainer is a practical and durable hygiene tool for toddlers 18-48 months. This multi-use product supports the potty training milestone and transitions into a step stool, providing long-term value for parents.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_039",
+        "name": "EcoKind Bamboo Feeding Spoons (6 Pack)",
+        "category": "Feeding",
+        "sub_category": "Tableware",
+        "price": 45,
+        "currency": "AED",
+        "age_min_months": 4,
+        "age_max_months": 24,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "budget",
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "eco_friendly",
+            "durable"
+        ],
+        "gift_score": 0.40,
+        "rating": 4.6,
+        "review_count": 730,
+        "popularity_score": 82,
+        "description": "Sustainably sourced bamboo spoons with soft silicone tips. Gentle on gums and perfect for the first stages of weaning.",
+        "key_benefits": [
+            "Soft tip prevents gum irritation",
+            "Heat-resistant and durable",
+            "Environmentally friendly materials"
+        ],
+        "use_cases": [
+            "Starting solids",
+            "Purée feeding",
+            "Self-feeding practice"
+        ],
+        "parent_pain_points_solved": [
+            "Avoids plastic exposure in feeding",
+            "Gentle enough for teething infants",
+            "Easy-grip handle for parents"
+        ],
+        "search_keywords": [
+            "bamboo baby spoons",
+            "silicone tip baby spoon",
+            "eco friendly weaning set"
+        ],
+        "embedding_text": "EcoKind Bamboo Feeding Spoons are a budget-friendly and practical feeding essential for infants 4-24 months. These eco-friendly spoons with soft silicone tips solve the problem of gum sensitivity during the weaning milestone.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_040",
+        "name": "WonderWall Child-Proof Door Lever Locks (4pc)",
+        "category": "Safety",
+        "sub_category": "Home Safety",
+        "price": 75,
+        "currency": "AED",
+        "age_min_months": 12,
+        "age_max_months": 60,
+        "development_stage": "walking",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "emergency"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "durable",
+            "easy_clean"
+        ],
+        "gift_score": 0.20,
+        "rating": 4.5,
+        "review_count": 420,
+        "popularity_score": 70,
+        "description": "One-handed operation door lever locks. Prevents toddlers from opening doors and entering restricted rooms or going outside.",
+        "key_benefits": [
+            "Simple installation with adhesive",
+            "Adults can operate with ease",
+            "Durable ABS plastic construction"
+        ],
+        "use_cases": [
+            "Kitchen pantry security",
+            "Bathroom door safety",
+            "Preventing balcony access"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents toddlers from wandering",
+            "Stops accidental lockouts",
+            "No damage to doors"
+        ],
+        "search_keywords": [
+            "door lever lock baby proofing",
+            "child safety door lock",
+            "toddler proof door handle"
+        ],
+        "embedding_text": "WonderWall Child-Proof Door Lever Locks are a practical safety necessity for the walking and toddler stages (12-60 months). They provide budget-friendly home security, solving the pain point of unsupervised wandering by active toddlers.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_041",
+        "name": "ArtisticAbilities Washable Finger Paint Kit",
+        "category": "Toys",
+        "sub_category": "Learning",
+        "price": 85,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "thoughtful",
+            "giftable",
+            "budget"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "dermatologically_tested"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "multi_use"
+        ],
+        "gift_score": 0.82,
+        "rating": 4.7,
+        "review_count": 310,
+        "popularity_score": 87,
+        "description": "A 6-pack of vibrant, non-toxic finger paints that wash easily from skin and clothes. Encourages messy, creative play.",
+        "key_benefits": [
+            "Safe and non-toxic for young kids",
+            "Washes off effortlessly",
+            "Develops fine motor skills and creativity"
+        ],
+        "use_cases": [
+            "Art and craft time",
+            "Sensory messy play",
+            "Birthday party activity"
+        ],
+        "parent_pain_points_solved": [
+            "Reduces cleanup stress from painting",
+            "Keeps children engaged and creative",
+            "Safe if accidentally tasted (but bitter)"
+        ],
+        "search_keywords": [
+            "washable finger paint",
+            "toddler art set",
+            "non toxic paint for kids"
+        ],
+        "embedding_text": "ArtisticAbilities Washable Finger Paint Kit is a thoughtful and giftable toy for toddlers aged 24-60 months. It promotes sensory learning and creativity while being easy to clean, making it a perfect budget-friendly birthday gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_042",
+        "name": "TinyTreads Anti-Slip Toddler Socks (12 Pairs)",
+        "category": "Clothing",
+        "sub_category": "Apparel",
+        "price": 70,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 36,
+        "development_stage": "walking",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "milestone",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "hypoallergenic"
+        ],
+        "feature_tags": [
+            "breathable",
+            "durable"
+        ],
+        "gift_score": 0.48,
+        "rating": 4.8,
+        "review_count": 1200,
+        "popularity_score": 91,
+        "description": "Cotton-rich socks with large silicone grippers on the soles. Perfect for newly walking toddlers on tile or wood floors.",
+        "key_benefits": [
+            "Prevents slipping and falling",
+            "Stretchy fit grows with the foot",
+            "Breathable cotton prevents sweat"
+        ],
+        "use_cases": [
+            "Indoor walking practice",
+            "Daily wear at home",
+            "Daycare footwear"
+        ],
+        "parent_pain_points_solved": [
+            "Reduces falls on slippery surfaces",
+            "Budget-friendly large pack for daily use",
+            "Stays on baby's feet better than plain socks"
+        ],
+        "search_keywords": [
+            "anti slip baby socks",
+            "grippy socks for toddlers",
+            "non skid infant socks"
+        ],
+        "embedding_text": "TinyTreads Anti-Slip Toddler Socks are a practical budget-friendly clothing item for the walking stage (6-36 months). They provide essential safety on slippery floors and are a daily-use necessity, making them a useful addition to any festive gift or milestone kit.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_043",
+        "name": "BreatheEasy Cool Mist Humidifier",
+        "category": "Health",
+        "sub_category": "Wellness",
+        "price": 280,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 60,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "premium",
+            "practical",
+            "emergency"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "festive"
+        ],
+        "safety_tags": [
+            "bpa_free"
+        ],
+        "feature_tags": [
+            "durable",
+            "easy_clean"
+        ],
+        "gift_score": 0.75,
+        "rating": 4.7,
+        "review_count": 890,
+        "popularity_score": 89,
+        "description": "Quiet Ultrasonic humidifier that adds moisture to the air to help babies breathe better. Features an auto-shutoff and adjustable mist.",
+        "key_benefits": [
+            "Relieves dry skin and congestion",
+            "Improves sleep quality in dry climates",
+            "Safe cool mist prevents burns"
+        ],
+        "use_cases": [
+            "Nighttime nursery use",
+            "Cold and flu recovery",
+            "Summer air conditioning relief"
+        ],
+        "parent_pain_points_solved": [
+            "Soothes dry coughs and stuffy noses",
+            "Maintains nursery humidity automatically",
+            "Operates silently to avoid waking baby"
+        ],
+        "search_keywords": [
+            "baby humidifier for nursery",
+            "cool mist humidifier for infants",
+            "ultrasonic baby humidifier"
+        ],
+        "embedding_text": "BreatheEasy Cool Mist Humidifier is a premium health essential for all ages (0-60 months). It solves the problem of dry air in nurseries, aiding in respiratory relief and better sleep, making it a thoughtful and practical gift for newborns and festive occasions.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_044",
+        "name": "SecureRide Car Seat Mirror",
+        "category": "Travel",
+        "sub_category": "Safety",
+        "price": 95,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "shatterproof"
+        ],
+        "feature_tags": [
+            "portable",
+            "durable"
+        ],
+        "gift_score": 0.60,
+        "rating": 4.6,
+        "review_count": 1150,
+        "popularity_score": 88,
+        "description": "Wide-angle, shatterproof mirror that allows parents to see rear-facing infants from the driver's seat. 360-degree rotation for the perfect view.",
+        "key_benefits": [
+            "Peace of mind while driving alone",
+            "Crystal clear reflection",
+            "Sturdy straps prevent shifting"
+        ],
+        "use_cases": [
+            "Solo car trips with baby",
+            "Long distance driving",
+            "Monitoring baby while driving"
+        ],
+        "parent_pain_points_solved": [
+            "Eliminates the need to turn around to check baby",
+            "Reduces driving distractions",
+            "Easy installation on car headrests"
+        ],
+        "search_keywords": [
+            "baby car mirror rear facing",
+            "shatterproof car seat mirror",
+            "backseat baby observer"
+        ],
+        "embedding_text": "SecureRide Car Seat Mirror is a practical travel safety tool for infants in rear-facing seats (0-24 months). It solves the problem of driving anxiety by allowing parents to monitor their baby safely, making it a daily-use essential and a useful gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_045",
+        "name": "Puzzles-by-Post Monthly Learning Kit",
+        "category": "Gifting Bundles",
+        "sub_category": "Educational",
+        "price": 260,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 48,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "thoughtful",
+            "premium",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "eco_friendly"
+        ],
+        "gift_score": 0.96,
+        "rating": 4.9,
+        "review_count": 210,
+        "popularity_score": 92,
+        "description": "A curated bundle of 4 age-appropriate wooden puzzles and logic games. Designed to challenge and grow with your toddler.",
+        "key_benefits": [
+            "Curated by early childhood experts",
+            "High-quality wooden materials",
+            "Teaches patience and problem-solving"
+        ],
+        "use_cases": [
+            "Independent quiet time",
+            "Educational gift giving",
+            "Parent-child bonding play"
+        ],
+        "parent_pain_points_solved": [
+            "Takes the guesswork out of buying toys",
+            "Reduces plastic clutter",
+            "Provides hours of educational engagement"
+        ],
+        "search_keywords": [
+            "toddler puzzle set",
+            "wooden logic toys",
+            "educational gift box for 3 year old"
+        ],
+        "embedding_text": "Puzzles-by-Post Monthly Learning Kit is a premium gifting bundle for toddlers aged 24-48 months. This thoughtful collection of wooden puzzles supports the logic development milestone, making it a high-score gift for birthdays and festive times.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_046",
+        "name": "Snack-n-Go Collapsible Snack Cup",
+        "category": "Feeding",
+        "sub_category": "Tableware",
+        "price": 40,
+        "currency": "AED",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "development_stage": "walking",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean"
+        ],
+        "gift_score": 0.38,
+        "rating": 4.4,
+        "review_count": 980,
+        "popularity_score": 85,
+        "description": "Spill-proof silicone snack cup with soft flaps that allow small hands to reach in but keep snacks from falling out. Collapses for easy storage.",
+        "key_benefits": [
+            "Mess-free snacking on the go",
+            "Fits in stroller cup holders",
+            "Soft material won't hurt little hands"
+        ],
+        "use_cases": [
+            "Stroller outings",
+            "Car ride snacks",
+            "Daycare snack time"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents snack spills in cars and bags",
+            "Saves space when not in use",
+            "Easy for toddlers to feed themselves"
+        ],
+        "search_keywords": [
+            "silicone snack cup for toddler",
+            "spill proof snack container",
+            "collapsible baby snack holder"
+        ],
+        "embedding_text": "Snack-n-Go Collapsible Snack Cup is a budget-friendly and practical feeding tool for toddlers 12-48 months. Its spill-proof design and portable nature solve the pain point of snack messes during travel and daily outings.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_047",
+        "name": "SleepyTime Adjustable Swaddle Bag",
+        "category": "Sleep",
+        "sub_category": "Bedding",
+        "price": 130,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 6,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "baby_shower"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "breathable",
+            "multi_use"
+        ],
+        "gift_score": 0.88,
+        "rating": 4.7,
+        "review_count": 670,
+        "popularity_score": 86,
+        "description": "A transitional swaddle bag that allows arms in or out. Features a two-way zipper and a hip-healthy wide bottom design.",
+        "key_benefits": [
+            "Eases the transition to sleep sacks",
+            "Promotes healthy hip development",
+            "Keeps baby cozy without loose blankets"
+        ],
+        "use_cases": [
+            "Safe infant sleep",
+            "Naptime routine",
+            "Newborn gift"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents blanket hazards in crib",
+            "Helps with the 'arms out' transition",
+            "Simplifies late-night diapering"
+        ],
+        "search_keywords": [
+            "transition swaddle sack",
+            "arms out sleep bag",
+            "hip healthy swaddle"
+        ],
+        "embedding_text": "SleepyTime Adjustable Swaddle Bag is a practical and thoughtful sleep aid for infants aged 0-6 months. It supports the transition from swaddling to free-arm sleep, solving the pain point of sleep regression during development, making it a great baby shower gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_048",
+        "name": "Lather-n-Learn Bath Letters & Numbers",
+        "category": "Toys",
+        "sub_category": "Bath",
+        "price": 50,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "budget",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "multi_use"
+        ],
+        "gift_score": 0.70,
+        "rating": 4.5,
+        "review_count": 410,
+        "popularity_score": 83,
+        "description": "Foam letters and numbers that stick to the bathtub wall when wet. A fun way to learn spelling and counting during bath time.",
+        "key_benefits": [
+            "Turns bath time into learning time",
+            "Non-toxic and mold-resistant foam",
+            "Durable and bright colors"
+        ],
+        "use_cases": [
+            "Bath time play",
+            "Learning ABCs and 123s",
+            "Water sensory play"
+        ],
+        "parent_pain_points_solved": [
+            "Makes bath time fun for toddlers",
+            "Provides educational play in a fun setting",
+            "Easy cleanup after bath"
+        ],
+        "search_keywords": [
+            "bath foam letters",
+            "floating alphabet for tub",
+            "educational bath toys"
+        ],
+        "embedding_text": "Lather-n-Learn Bath Letters & Numbers is a budget-friendly educational toy for toddlers 24-60 months. It turns a daily hygiene routine into a learning milestone, making it a fun and thoughtful gift for birthdays and festive celebrations.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_049",
+        "name": "SecureGrip Corner Bumpers (8 Pack)",
+        "category": "Safety",
+        "sub_category": "Home Safety",
+        "price": 35,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 48,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "practical",
+            "budget"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "durable"
+        ],
+        "gift_score": 0.22,
+        "rating": 4.3,
+        "review_count": 860,
+        "popularity_score": 74,
+        "description": "Spherical soft silicone corner protectors for low tables and shelves. Designed to absorb high impact and prevent sharp edge injuries.",
+        "key_benefits": [
+            "Prevents head bumps on furniture",
+            "Discreet and easy to install",
+            "Child-safe adhesive"
+        ],
+        "use_cases": [
+            "Baby-proofing living rooms",
+            "Coffee table safety",
+            "Under-table protection"
+        ],
+        "parent_pain_points_solved": [
+            "Stops toddler injuries from falls",
+            "Peace of mind during cruising",
+            "Cheap and effective home safety"
+        ],
+        "search_keywords": [
+            "baby proof corner bumpers",
+            "soft corner protectors",
+            "furniture safety for toddlers"
+        ],
+        "embedding_text": "SecureGrip Corner Bumpers are a budget-friendly safety essential for babies in the crawling and walking stages (6-48 months). They solve the problem of sharp furniture corners, providing a practical way to baby-proof the home without a high cost.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_050",
+        "name": "EcoPlay Soft Fabric Book Set (3pk)",
+        "category": "Learning",
+        "sub_category": "Sensory",
+        "price": 90,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 18,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "thoughtful",
+            "giftable",
+            "budget"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "hypoallergenic"
+        ],
+        "feature_tags": [
+            "portable",
+            "eco_friendly",
+            "easy_clean"
+        ],
+        "gift_score": 0.85,
+        "rating": 4.6,
+        "review_count": 520,
+        "popularity_score": 82,
+        "description": "Crinkle-filled soft fabric books with high-contrast colors and interactive tails. Perfect for early sensory stimulation.",
+        "key_benefits": [
+            "Safe for mouthing and chewing",
+            "Stimulates hearing and touch",
+            "Unbreakable and machine washable"
+        ],
+        "use_cases": [
+            "Early literacy intro",
+            "Tummy time engagement",
+            "Stroller toy"
+        ],
+        "parent_pain_points_solved": [
+            "Safe books for infants who chew everything",
+            "Keeps baby entertained during travel",
+            "No sharp edges or paper cuts"
+        ],
+        "search_keywords": [
+            "soft baby book",
+            "crinkle cloth book",
+            "high contrast sensory book"
+        ],
+        "embedding_text": "EcoPlay Soft Fabric Book Set is a thoughtful and budget-friendly sensory toy for newborns and infants up to 18 months. These machine-washable books solve the need for safe, early literacy tools and make an excellent baby shower gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_051",
+        "name": "QuickFill Formula Dispenser (3 Stack)",
+        "category": "Feeding",
+        "sub_category": "Accessories",
+        "price": 30,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean"
+        ],
+        "gift_score": 0.35,
+        "rating": 4.5,
+        "review_count": 1100,
+        "popularity_score": 89,
+        "description": "Stackable, interlocking containers for pre-measured milk formula or snacks. Funnel spout for mess-free bottle prep.",
+        "key_benefits": [
+            "No more measuring on the go",
+            "Prevents formula spills",
+            "Compact for diaper bags"
+        ],
+        "use_cases": [
+            "On-the-go feeding",
+            "Nighttime bottle prep",
+            "Daycare meal portioning"
+        ],
+        "parent_pain_points_solved": [
+            "Ends messy powder measuring in public",
+            "Saves time during urgent feedings",
+            "Organizes baby snacks efficiently"
+        ],
+        "search_keywords": [
+            "baby formula dispenser",
+            "milk powder container",
+            "stackable snack cup"
+        ],
+        "embedding_text": "QuickFill Formula Dispenser is a practical and budget-friendly feeding accessory for the newborn stage (0-12 months). It solves the problem of messy on-the-go feeding by allowing pre-measured portions, making it a daily-use staple for busy parents.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_052",
+        "name": "GentleWaves Electric Rocking Chair",
+        "category": "Sleep",
+        "sub_category": "Nursery Furniture",
+        "price": 299,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "premium",
+            "practical"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "durable"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "easy_clean"
+        ],
+        "gift_score": 0.85,
+        "rating": 4.8,
+        "review_count": 340,
+        "popularity_score": 92,
+        "description": "A compact, electric baby swing with 5 speeds and 12 built-in melodies. Designed to soothe infants with natural side-to-side motion.",
+        "key_benefits": [
+            "Hands-free soothing for parents",
+            "Mimics parent's natural rocking",
+            "Lightweight and easy to move room-to-room"
+        ],
+        "use_cases": [
+            "Soothe a colicky baby",
+            "Daytime napping",
+            "Safe place to put baby down"
+        ],
+        "parent_pain_points_solved": [
+            "Relieves tired arms from constant rocking",
+            "Helps baby fall asleep faster",
+            "Provides a calm environment for fussy infants"
+        ],
+        "search_keywords": [
+            "electric baby swing",
+            "soothing infant rocker",
+            "portable baby bouncer"
+        ],
+        "embedding_text": "GentleWaves Electric Rocking Chair is a premium and practical sleep-aid product for newborns (0-12 months). It offers hands-free soothing with various speeds and music, making it a high-value gift for new parents during the festive season or newborn arrival.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_053",
+        "name": "ActiveToddler Foldable Slide",
+        "category": "Toys",
+        "sub_category": "Outdoor",
+        "price": 240,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "development_stage": "walking",
+        "intent_tags": [
+            "premium",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "durable"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "easy_clean",
+            "portable"
+        ],
+        "gift_score": 0.90,
+        "rating": 4.7,
+        "review_count": 180,
+        "popularity_score": 85,
+        "description": "Indoor/Outdoor toddler slide that folds flat for easy storage. Wide steps and stable base for safe, active play.",
+        "key_benefits": [
+            "Promotes physical activity and motor skills",
+            "Easy to store when not in use",
+            "Sturdy and safe construction"
+        ],
+        "use_cases": [
+            "Backyard play",
+            "Indoor playroom fun",
+            "Birthday party activity"
+        ],
+        "parent_pain_points_solved": [
+            "Burns off toddler energy indoors",
+            "Saves space in small homes",
+            "No-tool assembly for busy parents"
+        ],
+        "search_keywords": [
+            "toddler indoor slide",
+            "foldable slide for kids",
+            "outdoor play equipment"
+        ],
+        "embedding_text": "ActiveToddler Foldable Slide is a premium outdoor and indoor toy for toddlers aged 24-60 months. It helps develop physical motor skills and is a fantastic gift for birthdays or festive occasions, especially for parents looking for space-saving options.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_054",
+        "name": "CloudCover Muslin Burp Cloths (5pk)",
+        "category": "Feeding",
+        "sub_category": "Accessories",
+        "price": 65,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 12,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "breathable",
+            "eco_friendly",
+            "easy_clean"
+        ],
+        "gift_score": 0.65,
+        "rating": 4.9,
+        "review_count": 820,
+        "popularity_score": 88,
+        "description": "Large, absorbent 6-layer muslin burp cloths. Gentle on baby's face and perfectly shaped for parent shoulders.",
+        "key_benefits": [
+            "Super absorbent for spit-ups",
+            "Becomes softer with every wash",
+            "Oversized for maximum coverage"
+        ],
+        "use_cases": [
+            "Post-feeding burping",
+            "Wiping spills",
+            "Diaper changing pad cover"
+        ],
+        "parent_pain_points_solved": [
+            "Protects parent's clothes from mess",
+            "Soft enough for sensitive newborn skin",
+            "Quick-drying fabric for high-rotation use"
+        ],
+        "search_keywords": [
+            "muslin burp cloths",
+            "baby spit up rags",
+            "organic cotton burp set"
+        ],
+        "embedding_text": "CloudCover Muslin Burp Cloths are a practical and budget-friendly feeding necessity for infants 0-12 months. This pack of 5 is a daily-use staple that solves the pain point of messy feedings and is an ideal, thoughtful gift for baby showers.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_055",
+        "name": "TinyTunes Piano Gym",
+        "category": "Toys",
+        "sub_category": "Sensory",
+        "price": 185,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 18,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "bpa_free"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "easy_clean"
+        ],
+        "gift_score": 0.88,
+        "rating": 4.8,
+        "review_count": 1400,
+        "popularity_score": 94,
+        "description": "Interactive play mat with a kick-activated piano, dangling toys, and a self-discovery mirror. Grows from lay-and-play to sit-and-play.",
+        "key_benefits": [
+            "Encourages leg movement and kicking",
+            "Provides visual and auditory stimulation",
+            "Removable piano for musical fun anywhere"
+        ],
+        "use_cases": [
+            "Newborn floor time",
+            "Sit-and-play activity",
+            "Tummy time"
+        ],
+        "parent_pain_points_solved": [
+            "Keeps baby entertained independently",
+            "Promotes physical development milestones",
+            "Easy to wash the fabric mat"
+        ],
+        "search_keywords": [
+            "baby kick and play gym",
+            "infant piano mat",
+            "activity gym for newborn"
+        ],
+        "embedding_text": "TinyTunes Piano Gym is a highly giftable and thoughtful sensory toy for infants aged 0-18 months. It supports physical milestones and auditory learning, making it a favorite for baby showers and early milestone celebrations.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_056",
+        "name": "SecurePath Retractable Baby Gate",
+        "category": "Safety",
+        "sub_category": "Home Safety",
+        "price": 265,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 24,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "practical",
+            "premium"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "durable",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "portable"
+        ],
+        "gift_score": 0.40,
+        "rating": 4.6,
+        "review_count": 420,
+        "popularity_score": 82,
+        "description": "Mesh retractable gate that fits openings up to 150cm wide. One-handed operation and rolls away when not in use.",
+        "key_benefits": [
+            "No tripping hazard (no bottom bar)",
+            "Discreet look when retracted",
+            "Fits wide or narrow openings"
+        ],
+        "use_cases": [
+            "Stairway safety",
+            "Kitchen restriction",
+            "Pet and baby barrier"
+        ],
+        "parent_pain_points_solved": [
+            "Stops toddlers from climbing stairs",
+            "Keeps baby away from hazardous areas",
+            "Saves space in hallways"
+        ],
+        "search_keywords": [
+            "retractable baby gate",
+            "mesh safety gate",
+            "stairway baby barrier"
+        ],
+        "embedding_text": "SecurePath Retractable Baby Gate is a practical and premium safety solution for parents of crawlers (6-24 months). It solves the problem of stair and room access, providing essential home protection with a sleek, space-saving design.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_057",
+        "name": "EcoBites Silicone Teether Fruit Feeder (2pk)",
+        "category": "Feeding",
+        "sub_category": "Accessories",
+        "price": 55,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 12,
+        "development_stage": "teething",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "thoughtful"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "multi_use"
+        ],
+        "gift_score": 0.72,
+        "rating": 4.5,
+        "review_count": 1100,
+        "popularity_score": 89,
+        "description": "Allows babies to safely taste fresh fruit and veggies through tiny holes without the risk of choking. Also works as a teether when filled with frozen fruit.",
+        "key_benefits": [
+            "Safely introduces whole food solids",
+            "Soothes sore gums with cold foods",
+            "Easy for small hands to hold"
+        ],
+        "use_cases": [
+            "Introducing new flavors",
+            "Teething relief",
+            "Independent snacking"
+        ],
+        "parent_pain_points_solved": [
+            "Reduces choking fear with solids",
+            "Keeps baby busy during mealtime",
+            "Easy way to provide frozen relief"
+        ],
+        "search_keywords": [
+            "baby fruit feeder",
+            "silicone pacifier feeder",
+            "fresh food teether"
+        ],
+        "embedding_text": "EcoBites Silicone Teether Fruit Feeder is a practical and budget-friendly tool for the teething milestone (6-12 months). It solves the pain point of choking fears while introducing solids, making it a thoughtful gift for weaning babies.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_058",
+        "name": "CozyCarry Ergonomic Hip Seat Carrier",
+        "category": "Travel",
+        "sub_category": "Carriers",
+        "price": 285,
+        "currency": "AED",
+        "age_min_months": 4,
+        "age_max_months": 36,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "premium",
+            "practical",
+            "thoughtful"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "milestone",
+            "birthday"
+        ],
+        "safety_tags": [
+            "durable",
+            "hypoallergenic"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "breathable"
+        ],
+        "gift_score": 0.94,
+        "rating": 4.8,
+        "review_count": 480,
+        "popularity_score": 90,
+        "description": "Versatile baby carrier with a built-in hip seat to distribute weight evenly. Can be used in 6 different carrying positions.",
+        "key_benefits": [
+            "Reduces back and shoulder strain",
+            "Keeps baby in hip-healthy M-position",
+            "Includes storage for diapers and phone"
+        ],
+        "use_cases": [
+            "Shopping trips",
+            "Hiked and long walks",
+            "Soothing a clingy baby"
+        ],
+        "parent_pain_points_solved": [
+            "Eliminates back pain from carrying",
+            "Allows for hands-free parenting",
+            "Easy to put on without help"
+        ],
+        "search_keywords": [
+            "baby carrier with hip seat",
+            "ergonomic toddler carrier",
+            "multi position baby wrap"
+        ],
+        "embedding_text": "CozyCarry Ergonomic Hip Seat Carrier is a premium travel product for children 4-36 months. It provides a thoughtful solution for back pain while keeping the baby secure in the hip-healthy position, making it a top-tier gift for active parents.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_059",
+        "name": "PureCare Bamboo Hooded Bathrobe",
+        "category": "Hygiene",
+        "sub_category": "Bath",
+        "price": 140,
+        "currency": "AED",
+        "age_min_months": 12,
+        "age_max_months": 36,
+        "development_stage": "walking",
+        "intent_tags": [
+            "thoughtful",
+            "giftable",
+            "premium"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "breathable",
+            "eco_friendly"
+        ],
+        "gift_score": 0.88,
+        "rating": 4.7,
+        "review_count": 210,
+        "popularity_score": 79,
+        "description": "Soft and luxurious bamboo bathrobe for toddlers. Features animal ears on the hood and a secure tie waist.",
+        "key_benefits": [
+            "Absorbs water instantly",
+            "Naturally anti-bacterial fabric",
+            "Keeps toddlers warm after swimming or bath"
+        ],
+        "use_cases": [
+            "Post-bath lounging",
+            "Swimming pool cover-up",
+            "Morning routine"
+        ],
+        "parent_pain_points_solved": [
+            "Gentle on toddlers with skin allergies",
+            "Stays on better than a towel",
+            "Cute design makes bath time easier"
+        ],
+        "search_keywords": [
+            "toddler bamboo bathrobe",
+            "baby hooded robe",
+            "organic kids bath wear"
+        ],
+        "embedding_text": "PureCare Bamboo Hooded Bathrobe is a premium and thoughtful gift for toddlers 12-36 months. Made from eco-friendly, hypoallergenic bamboo, it provides a cozy post-bath experience, making it a lovely birthday or festive gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_060",
+        "name": "BlockByBlock Jumbo Cardboard Bricks (20pc)",
+        "category": "Toys",
+        "sub_category": "Learning",
+        "price": 160,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "thoughtful",
+            "giftable",
+            "premium"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "durable",
+            "multi_use",
+            "eco_friendly"
+        ],
+        "gift_score": 0.85,
+        "rating": 4.8,
+        "review_count": 310,
+        "popularity_score": 88,
+        "description": "Giant, lightweight building blocks that can support up to 30kg. Allows toddlers to build life-sized forts and towers.",
+        "key_benefits": [
+            "Encourages imaginative role play",
+            "Develops gross motor skills",
+            "Safe and lightweight for young children"
+        ],
+        "use_cases": [
+            "Fort building",
+            "Group creative play",
+            "Indoor active fun"
+        ],
+        "parent_pain_points_solved": [
+            "Provides physical play without expensive plastic",
+            "Keeps kids active on rainy days",
+            "Durable enough for climbing and stacking"
+        ],
+        "search_keywords": [
+            "giant building blocks for toddlers",
+            "cardboard bricks for kids",
+            "life size fort building toy"
+        ],
+        "embedding_text": "BlockByBlock Jumbo Cardboard Bricks are a premium and thoughtful gift for children 24-60 months. These eco-friendly blocks foster creative play and physical movement, making them a high-score birthday gift for active toddlers.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_061",
+        "name": "SootheStream Humidifier and Nightlight",
+        "category": "Health",
+        "sub_category": "Wellness",
+        "price": 195,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 60,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "practical",
+            "thoughtful",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "newborn",
+            "baby_shower"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "multi_use",
+            "easy_clean"
+        ],
+        "gift_score": 0.82,
+        "rating": 4.6,
+        "review_count": 520,
+        "popularity_score": 85,
+        "description": "2-in-1 device that adds healthy moisture to the air and provides a calming color-changing nightlight for the nursery.",
+        "key_benefits": [
+            "Prevents dry skin and congestion",
+            "Creates a calming sleep atmosphere",
+            "Auto-off feature when water runs out"
+        ],
+        "use_cases": [
+            "Nursery wellness",
+            "Nightlight for feedings",
+            "Seasonal congestion relief"
+        ],
+        "parent_pain_points_solved": [
+            "Eliminates need for two separate devices",
+            "Helps baby breathe through cold/flu",
+            "Quiet enough for light sleepers"
+        ],
+        "search_keywords": [
+            "nursery humidifier nightlight",
+            "baby air moisturizer",
+            "2 in 1 baby health device"
+        ],
+        "embedding_text": "SootheStream Humidifier and Nightlight is a practical and thoughtful health tool for children 0-60 months. Combining air moisture with a calming light, it solves sleep and health issues in the nursery, making it a great baby shower gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_062",
+        "name": "LittleExplorer First Backpack",
+        "category": "Travel",
+        "sub_category": "Apparel",
+        "price": 110,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "development_stage": "walking",
+        "intent_tags": [
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "durable"
+        ],
+        "feature_tags": [
+            "portable",
+            "easy_clean"
+        ],
+        "gift_score": 0.88,
+        "rating": 4.7,
+        "review_count": 240,
+        "popularity_score": 80,
+        "description": "Small, lightweight backpack with a safety leash for toddlers. Features fun animal designs and adjustable padded straps.",
+        "key_benefits": [
+            "Keeps child safe in crowded places",
+            "Develops a sense of responsibility",
+            "Perfect size for a snack and toy"
+        ],
+        "use_cases": [
+            "Airport travel",
+            "Mall outings",
+            "First day of preschool"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents toddlers from running off",
+            "Hands-free for the child",
+            "Lightweight for small backs"
+        ],
+        "search_keywords": [
+            "toddler backpack with leash",
+            "safety harness for kids",
+            "first preschool bag"
+        ],
+        "embedding_text": "LittleExplorer First Backpack is a thoughtful and practical travel accessory for toddlers 24-60 months. It combines a fun bag with a safety leash, solving the pain point of child safety in public spaces and making it a popular birthday gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_063",
+        "name": "CleanBite Electric Toothbrush (0-3yr)",
+        "category": "Hygiene",
+        "sub_category": "Wellness",
+        "price": 125,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 36,
+        "development_stage": "teething",
+        "intent_tags": [
+            "practical",
+            "thoughtful"
+        ],
+        "occasion_tags": [
+            "milestone",
+            "festive"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "durable",
+            "easy_clean"
+        ],
+        "gift_score": 0.65,
+        "rating": 4.5,
+        "review_count": 390,
+        "popularity_score": 83,
+        "description": "Gentle sonic toothbrush with an LED light to help parents see inside baby's mouth. Features soft bristles and a 2-minute timer.",
+        "key_benefits": [
+            "Establishes early oral hygiene habits",
+            "Light helps identify new teeth",
+            "Soft vibrations are fun for babies"
+        ],
+        "use_cases": [
+            "First teeth cleaning",
+            "Toddler tooth brushing practice",
+            "Gum massage during teething"
+        ],
+        "parent_pain_points_solved": [
+            "Makes brushing less of a battle",
+            "Ensures thorough cleaning with sonic tech",
+            "Better visibility during brushing"
+        ],
+        "search_keywords": [
+            "baby electric toothbrush",
+            "toothbrush for 1 year old",
+            "sonic infant toothbrush"
+        ],
+        "embedding_text": "CleanBite Electric Toothbrush is a practical hygiene tool for the teething and toddler stages (6-36 months). It solves the problem of difficult tooth brushing sessions by making them interactive and effective, acting as a great milestone gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_064",
+        "name": "WonderWand Bubbles & Light Toy",
+        "category": "Toys",
+        "sub_category": "Sensory",
+        "price": 60,
+        "currency": "AED",
+        "age_min_months": 18,
+        "age_max_months": 48,
+        "development_stage": "walking",
+        "intent_tags": [
+            "budget",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "bpa_free"
+        ],
+        "feature_tags": [
+            "portable",
+            "multi_use"
+        ],
+        "gift_score": 0.78,
+        "rating": 4.4,
+        "review_count": 820,
+        "popularity_score": 89,
+        "description": "Automatic bubble wand that lights up and plays music while blowing hundreds of bubbles. Includes a mess-free bubble solution bottle.",
+        "key_benefits": [
+            "Instant entertainment for toddlers",
+            "Stimulates visual tracking",
+            "Great for outdoor and indoor play"
+        ],
+        "use_cases": [
+            "Backyard fun",
+            "Birthday parties",
+            "Sensory distraction"
+        ],
+        "parent_pain_points_solved": [
+            "Keeps child active and laughing",
+            "Automatic blowing saves parent's breath",
+            "Inexpensive way to entertain a group"
+        ],
+        "search_keywords": [
+            "bubble machine for toddlers",
+            "automatic bubble wand",
+            "light up bubble toy"
+        ],
+        "embedding_text": "WonderWand Bubbles & Light Toy is a budget-friendly sensory toy for toddlers 18-48 months. It provides immediate fun and visual engagement, making it a high-value festive or birthday gift for active children.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_065",
+        "name": "CloudNine Bamboo Pillowcase for Kids",
+        "category": "Sleep",
+        "sub_category": "Bedding",
+        "price": 45,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "thoughtful",
+            "budget",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "festive"
+        ],
+        "safety_tags": [
+            "hypoallergenic",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "breathable",
+            "eco_friendly"
+        ],
+        "gift_score": 0.55,
+        "rating": 4.8,
+        "review_count": 140,
+        "popularity_score": 75,
+        "description": "Silk-soft bamboo pillowcase that stays cool all night. Gentle on hair and sensitive skin, perfect for toddlers transitioning to a big bed.",
+        "key_benefits": [
+            "Temperature regulating for sweaty sleepers",
+            "Prevents hair matting and tangles",
+            "Naturally hypoallergenic"
+        ],
+        "use_cases": [
+            "First toddler bed",
+            "Sensitive skin care",
+            "Travel pillow cover"
+        ],
+        "parent_pain_points_solved": [
+            "Reduces night sweats",
+            "Gentle on children with eczema",
+            "Easy to wash and quick to dry"
+        ],
+        "search_keywords": [
+            "bamboo pillowcase for kids",
+            "cooling toddler bedding",
+            "hypoallergenic pillow cover"
+        ],
+        "embedding_text": "CloudNine Bamboo Pillowcase for Kids is a thoughtful and budget-friendly sleep accessory for toddlers 24-60 months. Its cooling and hypoallergenic properties solve the problem of night sweats and skin irritation, making it a practical gift for the big-bed milestone.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_066",
+        "name": "SecureLock Oven Knob Guards (5pc)",
+        "category": "Safety",
+        "sub_category": "Home Safety",
+        "price": 60,
+        "currency": "AED",
+        "age_min_months": 12,
+        "age_max_months": 48,
+        "development_stage": "walking",
+        "intent_tags": [
+            "practical",
+            "budget",
+            "emergency"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "durable"
+        ],
+        "feature_tags": [
+            "easy_clean"
+        ],
+        "gift_score": 0.15,
+        "rating": 4.4,
+        "review_count": 320,
+        "popularity_score": 72,
+        "description": "Clear plastic covers that fit over stove knobs to prevent children from turning them. Heat-resistant and universal fit.",
+        "key_benefits": [
+            "Prevents fire hazards and gas leaks",
+            "Hard for kids to open, easy for adults",
+            "Blends in with kitchen appliances"
+        ],
+        "use_cases": [
+            "Kitchen safety",
+            "Preventing stove accidents",
+            "Baby-proofing the home"
+        ],
+        "parent_pain_points_solved": [
+            "Stops toddlers from messing with the stove",
+            "Peace of mind while cooking",
+            "Quick installation without tools"
+        ],
+        "search_keywords": [
+            "oven knob safety covers",
+            "child proof stove knobs",
+            "kitchen safety for toddlers"
+        ],
+        "embedding_text": "SecureLock Oven Knob Guards are a practical budget safety item for toddlers in the walking stage (12-48 months). They solve a critical kitchen safety pain point by preventing stove accidents, providing essential protection as children explore the home.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_067",
+        "name": "ColorMatch Silicone Nesting Cups",
+        "category": "Toys",
+        "sub_category": "Early Learning",
+        "price": 65,
+        "currency": "AED",
+        "age_min_months": 6,
+        "age_max_months": 36,
+        "development_stage": "crawling",
+        "intent_tags": [
+            "thoughtful",
+            "budget",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "birthday",
+            "milestone",
+            "festive"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic",
+            "food_grade_silicone"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "multi_use",
+            "portable"
+        ],
+        "gift_score": 0.85,
+        "rating": 4.9,
+        "review_count": 1150,
+        "popularity_score": 93,
+        "description": "8 vibrant silicone cups that nest, stack, and feature drainage holes for water play. Embossed with numbers and patterns.",
+        "key_benefits": [
+            "Develops fine motor skills",
+            "Safe for teething and bath time",
+            "Teaches counting and size comparison"
+        ],
+        "use_cases": [
+            "Bath time fun",
+            "Beach or sandbox play",
+            "Floor stacking play"
+        ],
+        "parent_pain_points_solved": [
+            "Versatile toy replaces several others",
+            "Unbreakable and easy to clean",
+            "Quiet play compared to plastic cups"
+        ],
+        "search_keywords": [
+            "silicone stacking cups",
+            "baby nesting toy",
+            "montessori bath toys"
+        ],
+        "embedding_text": "ColorMatch Silicone Nesting Cups are a budget-friendly and thoughtful toy for infants and toddlers (6-36 months). These multi-use cups support counting and motor milestones, serving as a durable and high-score gift for various occasions.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_068",
+        "name": "BentoBaby Divided Lunch Box",
+        "category": "Feeding",
+        "sub_category": "Tableware",
+        "price": 110,
+        "currency": "AED",
+        "age_min_months": 24,
+        "age_max_months": 60,
+        "development_stage": "toddler",
+        "intent_tags": [
+            "practical",
+            "daily-use"
+        ],
+        "occasion_tags": [
+            "milestone",
+            "birthday"
+        ],
+        "safety_tags": [
+            "bpa_free",
+            "non_toxic"
+        ],
+        "feature_tags": [
+            "easy_clean",
+            "durable",
+            "portable"
+        ],
+        "gift_score": 0.62,
+        "rating": 4.7,
+        "review_count": 580,
+        "popularity_score": 87,
+        "description": "Leak-proof lunch box with 5 compartments. Sized for toddler portions and features easy-open latches for little hands.",
+        "key_benefits": [
+            "Keeps food separated and fresh",
+            "Durable drop-proof design",
+            "Removable tray is dishwasher safe"
+        ],
+        "use_cases": [
+            "Preschool lunches",
+            "Daycare meals",
+            "Park picnic snacks"
+        ],
+        "parent_pain_points_solved": [
+            "Reduces single-use plastic bags",
+            "Encourages food variety",
+            "Sturdy enough for toddler handling"
+        ],
+        "search_keywords": [
+            "toddler bento box",
+            "kids divided lunch container",
+            "leak proof kids lunch box"
+        ],
+        "embedding_text": "BentoBaby Divided Lunch Box is a practical daily-use feeding product for children 24-60 months. It supports the transition to preschool by keeping meals organized and fresh, solving the pain point of messy school bags and making it a useful gift.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_069",
+        "name": "SafeStep Anti-Tip Furniture Straps (10pc)",
+        "category": "Safety",
+        "sub_category": "Home Safety",
+        "price": 85,
+        "currency": "AED",
+        "age_min_months": 12,
+        "age_max_months": 60,
+        "development_stage": "walking",
+        "intent_tags": [
+            "practical",
+            "emergency"
+        ],
+        "occasion_tags": [
+            "milestone"
+        ],
+        "safety_tags": [
+            "durable"
+        ],
+        "feature_tags": [
+            "multi_use"
+        ],
+        "gift_score": 0.10,
+        "rating": 4.8,
+        "review_count": 210,
+        "popularity_score": 68,
+        "description": "Heavy-duty steel cables and nylon straps to secure heavy furniture and TVs to the wall. Essential for preventing tip-over accidents.",
+        "key_benefits": [
+            "High weight capacity for wardrobes",
+            "Adjustable and detachable for cleaning",
+            "Complies with safety standards"
+        ],
+        "use_cases": [
+            "Securing bookshelves",
+            "TV safety",
+            "Dressers and cabinets"
+        ],
+        "parent_pain_points_solved": [
+            "Prevents catastrophic tip-over injuries",
+            "Peace of mind as toddlers start climbing",
+            "Easy installation with all hardware included"
+        ],
+        "search_keywords": [
+            "furniture anti tip straps",
+            "baby proofing TV strap",
+            "wall anchors for furniture"
+        ],
+        "embedding_text": "SafeStep Anti-Tip Furniture Straps are a practical and emergency-focused safety product for children in the walking stage (12-60 months). They solve the dangerous problem of furniture tip-overs, providing critical home safety for active toddlers.",
+        "in_stock": true
+    },
+    {
+        "id": "prod_070",
+        "name": "MemoryMaker Handprint & Footprint Kit",
+        "category": "Gifting Bundles",
+        "sub_category": "Decor",
+        "price": 125,
+        "currency": "AED",
+        "age_min_months": 0,
+        "age_max_months": 24,
+        "development_stage": "newborn",
+        "intent_tags": [
+            "thoughtful",
+            "giftable"
+        ],
+        "occasion_tags": [
+            "baby_shower",
+            "newborn",
+            "birthday"
+        ],
+        "safety_tags": [
+            "non_toxic",
+            "dermatologically_tested"
+        ],
+        "feature_tags": [
+            "eco_friendly"
+        ],
+        "gift_score": 0.98,
+        "rating": 4.9,
+        "review_count": 860,
+        "popularity_score": 91,
+        "description": "A wooden frame with space for a photo and non-toxic clay for baby's hand and footprint. A beautiful keepsake for new parents.",
+        "key_benefits": [
+            "Captures a moment in time",
+            "Easy, mess-free clay",
+            "Ready-to-hang or stand display"
+        ],
+        "use_cases": [
+            "Newborn milestone tracking",
+            "Nursery wall decor",
+            "Gift for grandparents"
+        ],
+        "parent_pain_points_solved": [
+            "Saves memories without complicated crafts",
+            "Safe for baby's skin",
+            "High emotional value gift"
+        ],
+        "search_keywords": [
+            "baby handprint kit",
+            "newborn keepsake frame",
+            "baby footprint mold"
+        ],
+        "embedding_text": "MemoryMaker Handprint & Footprint Kit is a highly thoughtful and giftable product for newborns and infants up to 24 months. It provides a simple, safe way to preserve early memories, making it a top-tier choice for baby showers and first birthdays.",
+        "in_stock": true
+    }
+]

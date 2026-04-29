@@ -99,6 +99,7 @@ class Retriever:
                 if not (p.get('age_min_months', 0) <= intent.age_months <= p.get('age_max_months', 999)): score *= 0.1
             scored.append((pid, score))
         scored.sort(key=lambda x: x[1], reverse=True)
-        return scored[:k]
+        # Filter out low-confidence matches (threshold: 0.15)
+        return [res for res in scored[:k] if res[1] > 0.15]
 
 retriever = Retriever()

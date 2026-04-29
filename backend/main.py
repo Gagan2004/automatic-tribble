@@ -67,6 +67,9 @@ async def recommend(request: RecommendRequest):
     
     recommendations = []
     for item in reasoning_data:
+        if item.get("reason_en") == "IRRELEVANT":
+            continue
+            
         prod = next((p for p in top_products if str(p.get("id") or p.get("_id")) == str(item["id"])), None)
         recommendations.append(Recommendation(
             id=str(item["id"]),

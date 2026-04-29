@@ -40,7 +40,13 @@ async def generate_reasoning(products: List[Dict], query: str, intent: Dict) -> 
             'pain_points': p.get('parent_pain_points_solved', [])[:3]
         })
 
-    prompt = f"Explain why these match '{query}': {json.dumps(product_context)}. Return JSON list with id, name, reason_en, reason_ar."
+    prompt = (
+        f"Analyze these products for the query '{query}': {json.dumps(product_context)}. "
+        "Return a JSON list with 'id', 'name', 'reason_en', and 'reason_ar'. "
+        "CRITICAL: If a product does not genuinely match the query intent (e.g. nonsense or impossible requests), "
+        "set both 'reason_en' and 'reason_ar' to 'IRRELEVANT'. "
+        "Be empathetic but realistic. Do not force humorous or illogical connections."
+    )
 
     # 1. PRIMARY: OpenRouter
     if OPENROUTER_API_KEY:

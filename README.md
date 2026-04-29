@@ -1,5 +1,9 @@
+###LOOM LINK:
+https://www.loom.com/share/00799edcb5e44fafafc45b0336ea98c1
+
 # Mama AI: Hybrid Parenting Assistant 🎠
 
+ 
 Mama AI is a high-performance, local-first parenting recommendation engine. It bridges the gap between developmental science and product search, using a **Triple-Tier AI Architecture** to provide empathetic, context-aware advice.
 
 ---
